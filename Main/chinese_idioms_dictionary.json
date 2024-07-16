@@ -1,0 +1,2407 @@
+{
+    "over a long distance, a great journey": {
+        "Chinese_Idiom": "千里迢迢",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容路途遥远、辛苦。也用来形容为了某个目的，费尽周折、克服困难。"
+    },
+    "Not worth mentioning or not worth teaching": {
+        "Chinese_Idiom": "不足为训",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无法成为教训；不值得拿来作为警戒或借鉴的例子"
+    },
+    "various types; all sorts of": {
+        "Chinese_Idiom": "各色各样",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "多种多样；形形色色"
+    },
+    "to give a clear and concise summary or outline": {
+        "Chinese_Idiom": "提纲挈领",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "抓住主要矛盾、问题或重点，引导全局或处理事情"
+    },
+    "to forget one's principles or sense of loyalty when faced with personal gain": {
+        "Chinese_Idiom": "见利忘义",
+        "English_Idiom": "sell _ soul to _ devil",
+        "Chinese_Meaning": "指为了谋取个人的利益而忘记了应该尽的义务和道义"
+    },
+    "to use every trick in the book": {
+        "Chinese_Idiom": "费尽心机",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容花费很多心思和计谋，以达到某种目的"
+    },
+    "pitch darkness": {
+        "Chinese_Idiom": "天昏地暗",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容天空昏暗，地上黑暗，景物模糊，没有光线。比喻局势或情势极其黑暗、混乱，没有一点希望或出路。"
+    },
+    "being old-fashioned and arrogant": {
+        "Chinese_Idiom": "老气横秋",
+        "English_Idiom": "give airs",
+        "Chinese_Meaning": "形容言行举止不合时宜，显得老态龙钟"
+    },
+    "have the courage to face difficulties and move forward": {
+        "Chinese_Idiom": "知难而进",
+        "English_Idiom": "bite the bullet",
+        "Chinese_Meaning": "指见到困难就勇往直前，积极主动地去解决问题"
+    },
+    "completely destroyed or wiped out": {
+        "Chinese_Idiom": "荡然无存",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "彻底毁灭或消失，一无所有"
+    },
+    "steady and stable in all aspects": {
+        "Chinese_Idiom": "四平八稳",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "稳定、平稳的样子"
+    },
+    "encountering a capable opponent": {
+        "Chinese_Idiom": "棋逢对手",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "遇到同样强大的对手或对手水平相当"
+    },
+    "remain unwaveringly loyal or committed till death": {
+        "Chinese_Idiom": "至死不变",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坚定不移地始终如一"
+    },
+    "breathtakingly beautiful, to the point that it is beyond words": {
+        "Chinese_Idiom": "美不胜收",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容美好的景色或事物令人难以言表"
+    },
+    "\"sweep across the world\", referring to something or someone exerting a tremendous influence or impact on a global scale": {
+        "Chinese_Idiom": "席卷天下",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "一举征服整个世界"
+    },
+    "choose the good and follow it": {
+        "Chinese_Idiom": "择善而从",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "选择好的事物或观点并采取行动"
+    },
+    "lively and vivacious": {
+        "Chinese_Idiom": "生动活泼",
+        "English_Idiom": "full of beans",
+        "Chinese_Meaning": "形容形象、事物活跃、形象，富有生气、灵气"
+    },
+    "violent and sudden storm or situation": {
+        "Chinese_Idiom": "暴风骤雨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容局势突然而猛烈变化，也指事情发展迅速、猛烈"
+    },
+    "having a strict and formidable defense; also refers to a situation where there are many obstacles or barriers to overcome": {
+        "Chinese_Idiom": "壁垒森严",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容阻挡极严，难以逾越。比喻关系紧密、不容易打破的障碍或界限。"
+    },
+    "endless and boundless, stretching as far as the eye can see": {
+        "Chinese_Idiom": "一望无际",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无边无际，看不到尽头。形容没有限制或界限"
+    },
+    "being alone or solitary": {
+        "Chinese_Idiom": "孑然一身",
+        "English_Idiom": "on your Tod",
+        "Chinese_Meaning": "指一个人独自一人，没有亲人或伴侣"
+    },
+    "smiling and fawning": {
+        "Chinese_Idiom": "嘻皮笑脸",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "虚假地笑容面对他人，不真诚的表态"
+    },
+    "achieve success immediately and effortlessly": {
+        "Chinese_Idiom": "马到功成",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻事情进行得非常顺利，立即取得成功"
+    },
+    "a grand and magnificent sight or scene": {
+        "Chinese_Idiom": "波澜壮阔",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形势激烈变化，扣人心弦，非常壮观"
+    },
+    "presenting information in a straightforward and sequential manner": {
+        "Chinese_Idiom": "平铺直叙",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容叙述内容平庸乏味，缺乏亮点和变化"
+    },
+    "Good teacher and helpful friend": {
+        "Chinese_Idiom": "良师益友",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指对自己有益的老师和朋友，能教导自己学习、成长"
+    },
+    "extremely happy or joyful": {
+        "Chinese_Idiom": "欢天喜地",
+        "English_Idiom": "as happy as a clam",
+        "Chinese_Meaning": "形容非常高兴、喜悦的样子"
+    },
+    "full of enthusiasm": {
+        "Chinese_Idiom": "满腔热忱",
+        "English_Idiom": "heart and soul",
+        "Chinese_Meaning": "充满热情和热爱。形容积极向上、满怀激情的态度或情感"
+    },
+    "Searching for something that is right in front of you": {
+        "Chinese_Idiom": "骑驴觅驴",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻明明知道目标就在自己身边，却一直到处找寻"
+    },
+    "a mix of good and bad, with both genuine and deceitful people present": {
+        "Chinese_Idiom": "鱼龙混杂",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "混在一起的人各种品质参差不齐"
+    },
+    "knowing the law but still breaking it": {
+        "Chinese_Idiom": "知法犯法",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "明知道法律规定，却故意违反。形容明明知错还要犯错。"
+    },
+    "a prominent and influential figure in society": {
+        "Chinese_Idiom": "风云人物",
+        "English_Idiom": "big hitter",
+        "Chinese_Meaning": "指在某个领域或某个时期中具有重要地位和影响力的人"
+    },
+    "to retreat and remain silent, to stop all activities": {
+        "Chinese_Idiom": "偃旗息鼓",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "停止行动，不再继续做下去"
+    },
+    "devotion to one's country with a sincere heart": {
+        "Chinese_Idiom": "赤心报国",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容对国家充满忠诚，毫无保留地为国家尽力"
+    },
+    "to appear attractive and eye-catching, especially in terms of appearance or attire": {
+        "Chinese_Idiom": "花枝招展",
+        "English_Idiom": "easy on the eye",
+        "Chinese_Meaning": "形容女子装扮得十分艳丽漂亮"
+    },
+    "to become even worse or more severe": {
+        "Chinese_Idiom": "变本加厉",
+        "English_Idiom": "go to hell in a handbasket",
+        "Chinese_Meaning": "指原来就厉害，后来更加厉害；形容坏事、恶劣情况更加加重"
+    },
+    "being humiliated and losing national sovereignty": {
+        "Chinese_Idiom": "丧权辱国",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指国家失去主权，受到侵犯和屈辱"
+    },
+    "persevere and persist in doing something": {
+        "Chinese_Idiom": "持之以恒",
+        "English_Idiom": "go the distance",
+        "Chinese_Meaning": "坚持不懈地做某件事情，不半途而废"
+    },
+    "living in constant fear and anxiety": {
+        "Chinese_Idiom": "提心吊胆",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "非常担心，害怕失去或受到打击"
+    },
+    "taking bold and decisive action": {
+        "Chinese_Idiom": "大刀阔斧",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容做事果断大胆，不拘小节。"
+    },
+    "to calculate or plot one's own interests": {
+        "Chinese_Idiom": "打小算盘",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指从小就会做生意、赚钱或者心思极其算计、精明"
+    },
+    "getting straight to the point without any deviation": {
+        "Chinese_Idiom": "单刀直入",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "直截了当地进入主题或问题，没有拐弯抹角"
+    },
+    "a place or situation that is invincible or cannot be defeated": {
+        "Chinese_Idiom": "不败之地",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指一个地方或者一个领域在某方面十分强大，几乎无法被击败的状态"
+    },
+    "year after year; repeatedly": {
+        "Chinese_Idiom": "年复一年",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指时间过得快，一年又一年地过去了"
+    },
+    "an idealist with integrity": {
+        "Chinese_Idiom": "志士仁人",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容有志向有道德的人"
+    },
+    "not take it seriously": {
+        "Chinese_Idiom": "不以为意",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "对某事不重视或不在意"
+    },
+    "leaving behind a lasting reputation for generations to come": {
+        "Chinese_Idiom": "流芳千古",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻人的美德或功绩流传后世，永远不朽"
+    },
+    "to capture or solve everything in one fell swoop": {
+        "Chinese_Idiom": "一网打尽",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "完全捕捉到或解决所有问题或困扰"
+    },
+    "to engage in casual conversation about various topics": {
+        "Chinese_Idiom": "谈天说地",
+        "English_Idiom": "chew _ fat",
+        "Chinese_Meaning": "闲聊天气、胡说八道，谈论琐碎的事情"
+    },
+    "To put the cart before the horse; getting things in the wrong order or having priorities mixed up": {
+        "Chinese_Idiom": "鸡口牛后",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人多口杂，意见各异，没有共同的主张"
+    },
+    "receiving frequent and rapid good news": {
+        "Chinese_Idiom": "捷报频传",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容好消息传得很快，连续不断地传来"
+    },
+    "drastic changes over time; a completely different situation or environment": {
+        "Chinese_Idiom": "沧海桑田",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容社会变迁或个人经历的巨大变化"
+    },
+    "unprecedented and unparalleled": {
+        "Chinese_Idiom": "空前绝后",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "前所未有，后无来者。形容非常罕见，再也没有过"
+    },
+    "being born in the wrong era; refers to feeling out of place or unlucky due to unfavorable circumstances": {
+        "Chinese_Idiom": "生不逢时",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指一个人不幸地出生在不适应自己发展的时代或环境中"
+    },
+    "indescribably wonderful; too marvelous to put into words": {
+        "Chinese_Idiom": "妙不可言",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "难以用言语表达其妙处"
+    },
+    "as safe and secure as Mount Tai": {
+        "Chinese_Idiom": "安如泰山",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容态度自在、心情平和，仿佛安如泰山一般。"
+    },
+    "living in harmony and getting along well with each other": {
+        "Chinese_Idiom": "和睦相处",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "和谐友好地相处，关系融洽"
+    },
+    "mutually loving and caring": {
+        "Chinese_Idiom": "相亲相爱",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指夫妻、父母子女等之间感情深厚，互相关爱"
+    },
+    "willing to undertake any task without hesitation": {
+        "Chinese_Idiom": "在所不辞",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "不推辞，毫不客气地接受或承担"
+    },
+    "to apply ancient principles in contemporary situations": {
+        "Chinese_Idiom": "古为今用",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指旧事物或办法重新被应用于新的环境或现实，以显示其时代的价值和意义"
+    },
+    "be cautious in words and actions, be careful in what you say and do": {
+        "Chinese_Idiom": "谨言慎行",
+        "English_Idiom": "mind your language",
+        "Chinese_Meaning": "形容说话、行动都非常小心谨慎，避免出错或得罪人"
+    },
+    "wasting one's effort and scheming in vain": {
+        "Chinese_Idiom": "枉费心机",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "白白浪费心思或精力"
+    },
+    "in the presence of the departed soul": {
+        "Chinese_Idiom": "在天之灵",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "用于人去世后，人们对他的怀念和缅怀的话"
+    },
+    "take advantage of a small gain to pursue further gain, being greedy and never satisfied": {
+        "Chinese_Idiom": "得寸进尺",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人得到一点好处就总想再进一步，贪得无厌"
+    },
+    "to still feel fearful and nervous after a scary or dangerous experience": {
+        "Chinese_Idiom": "心有余悸",
+        "English_Idiom": "hit the panic button",
+        "Chinese_Meaning": "对某种经历或恐惧还心有余悸，表示心里还有怕的感觉。"
+    },
+    "occurring at the opportune moment; happening to coincide with a suitable opportunity": {
+        "Chinese_Idiom": "适逢其会",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "遇到合适的机会或时机"
+    },
+    "steep cliff or precipice": {
+        "Chinese_Idiom": "悬崖峭壁",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容地势险峻，比喻处境困难或危机四伏"
+    },
+    "making a fool of oneself in various ways": {
+        "Chinese_Idiom": "丑态百出",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容行为举止或言谈丑陋不堪，毫无自觉"
+    },
+    "each doing their own thing; each following their own course of action": {
+        "Chinese_Idiom": "各行其是",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "每个人都按照自己的方式做事，不受别人的干扰或影响"
+    },
+    "to follow a strict order and be meticulous in writing": {
+        "Chinese_Idiom": "文从字顺",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指按照文字的先后顺序，遵循规定的文法和方法"
+    },
+    "willing to do anything regardless of the cost or sacrifice": {
+        "Chinese_Idiom": "在所不惜",
+        "English_Idiom": "stop at nothing",
+        "Chinese_Meaning": "不计较任何代价或付出"
+    },
+    "simultaneously and without prior arrangement": {
+        "Chinese_Idiom": "不约而同",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容不约而合的情况"
+    },
+    "having a formidable enemy at present, facing a major threat": {
+        "Chinese_Idiom": "大敌当前",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "面对巨大的敌对势力或困难时，形势非常严峻"
+    },
+    "unable to hold back laughter": {
+        "Chinese_Idiom": "忍俊不禁",
+        "English_Idiom": "crack up",
+        "Chinese_Meaning": "形容事情或言论非常滑稽可笑，使人情不自禁地笑出声来"
+    },
+    "extremely cold weather": {
+        "Chinese_Idiom": "天寒地冻",
+        "English_Idiom": "brass monkey",
+        "Chinese_Meaning": "形容天气极其寒冷"
+    },
+    "to have a big fight": {
+        "Chinese_Idiom": "大打出手",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指争吵、争执等激烈的、非常激烈的斗争或战斗"
+    },
+    "to dare to do and take action without fear or hesitation": {
+        "Chinese_Idiom": "敢作敢为",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容勇敢有决心，敢于干事情的意思"
+    },
+    "Being able to deduce a situation by observing subtle signs.": {
+        "Chinese_Idiom": "叶落知秋",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻一定迹象出现，可以预料未来的事情"
+    },
+    "content and satisfied; feeling fully satisfied or content with what one has achieved or obtained": {
+        "Chinese_Idiom": "心满意足",
+        "English_Idiom": "as happy as a clam",
+        "Chinese_Meaning": "形容心里十分满意，没有什么遗憾或不满足的地方"
+    },
+    "a place filled with smoke and toxic substances, referring to a chaotic and unhealthy environment": {
+        "Chinese_Idiom": "乌烟瘴气",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容环境恶劣，污浊不清"
+    },
+    "non-stop or continuously, without any pause or rest": {
+        "Chinese_Idiom": "马不停蹄",
+        "English_Idiom": "at a stretch",
+        "Chinese_Meaning": "形容事务繁忙，毫不停歇"
+    },
+    "a fierce attack in speech or action, without any consideration for the other party": {
+        "Chinese_Idiom": "劈头盖脸",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "突然而且用力地打击或指责"
+    },
+    "being extremely discerning and having keen eyesight": {
+        "Chinese_Idiom": "明察秋毫",
+        "English_Idiom": "as blind as a bat",
+        "Chinese_Meaning": "能观察到非常微小的细节或问题"
+    },
+    "thorough and meticulous; leaving no gaps or omissions": {
+        "Chinese_Idiom": "疏而不漏",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "处理事情细致周到，没有疏忽和遗漏的地方"
+    },
+    "following a map and seeking a fine horse": {
+        "Chinese_Idiom": "按图索骥",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "按照图纸的指引去寻找一匹良好的骏马；也比喻按照经验或事先规定的标准去寻找人才或事物"
+    },
+    "To deceive or hide the truth from others": {
+        "Chinese_Idiom": "掩人耳目",
+        "English_Idiom": "fall for it",
+        "Chinese_Meaning": "假借某种手段掩盖真实情况"
+    },
+    "remaining unmoved and unyielding": {
+        "Chinese_Idiom": "岿然不动",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坚定不移地站稳，固守原地，不被外界干扰"
+    },
+    "prevent potential dangers in advance; take precautions before a problem occurs": {
+        "Chinese_Idiom": "防患未然",
+        "English_Idiom": "an ounce of prevention is worth a pound of cure",
+        "Chinese_Meaning": "采取预防措施以避免可能发生的危险或问题"
+    },
+    "have a wide influence and be able to adapt to changing circumstances": {
+        "Chinese_Idiom": "通权达变",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "能够权谋变通，应对各种复杂变化"
+    },
+    "being skeptical and unsure, having both belief and doubt": {
+        "Chinese_Idiom": "将信将疑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容对事情持有信任和怀疑的态度"
+    },
+    "lawless and unruly, without any restraints or control": {
+        "Chinese_Idiom": "无法无天",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容没有法律和秩序限制，任意妄为"
+    },
+    "common human behavior or reaction": {
+        "Chinese_Idiom": "人之常情",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指属于普遍的、正常的人的心理、情感或行为。"
+    },
+    "miss a great opportunity": {
+        "Chinese_Idiom": "坐失良机",
+        "English_Idiom": "miss _ boat",
+        "Chinese_Meaning": "错过了一个很好的机会"
+    },
+    "being extremely fortunate or having exceptional advantages": {
+        "Chinese_Idiom": "得天独厚",
+        "English_Idiom": "charmed life",
+        "Chinese_Meaning": "形容具有特殊的有利条件或优势"
+    },
+    "a magical remedy or solution that can effectively cure a problem": {
+        "Chinese_Idiom": "灵丹妙药",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指非常有效的解决方法或良药"
+    },
+    "returning home disappointed or disheartened after a failed attempt or experience": {
+        "Chinese_Idiom": "败兴而归",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指原计划或希望达到某个目标或效果的人或事以失败而结束"
+    },
+    "ambitious aspirations or goals": {
+        "Chinese_Idiom": "鸿鹄之志",
+        "English_Idiom": "chase rainbows",
+        "Chinese_Meaning": "追求高远的目标或志向"
+    },
+    "to come up with a unique or creative idea or approach": {
+        "Chinese_Idiom": "别出心裁",
+        "English_Idiom": "out of the box",
+        "Chinese_Meaning": "形容方法或主意与众不同，独具创意"
+    },
+    "\"what harm is there?\", \"what's wrong?\"": {
+        "Chinese_Idiom": "何罪之有",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指某人或某事并无罪过，无可指责"
+    },
+    "to be among the top ranked or listed in the forefront": {
+        "Chinese_Idiom": "名列前茅",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "在某一群体、组织或竞赛中名次排在前面"
+    },
+    "getting along harmoniously, forming a close bond": {
+        "Chinese_Idiom": "打成一片",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容关系亲密，和睦融洽"
+    },
+    "pleasing to the eye; beautiful; visually appealing": {
+        "Chinese_Idiom": "赏心悦目",
+        "English_Idiom": "easy on the eye",
+        "Chinese_Meaning": "形容美好的事物令人愉悦、让人喜欢看"
+    },
+    "to act within one's limits or capabilities": {
+        "Chinese_Idiom": "量力而行",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "根据自己的能力和条件行动"
+    },
+    "unpleasant or unwelcome advice or criticism that is difficult to accept, but ultimately necessary": {
+        "Chinese_Idiom": "忠言逆耳",
+        "English_Idiom": "back seat driver",
+        "Chinese_Meaning": "指劝告和规劝的话往往触痛人心，受到意愿和情感上的冲突。"
+    },
+    "opposites complement each other": {
+        "Chinese_Idiom": "相反相成",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指两个相反的事物或因素共同作用，相互促进，使整体达成一种平衡或完整"
+    },
+    "to be in a state of intense enthusiasm or excitement": {
+        "Chinese_Idiom": "如火如荼",
+        "English_Idiom": "amped up",
+        "Chinese_Meaning": "形容事物进行得热烈，进展迅速"
+    },
+    "a drop in the ocean; something insignificant in comparison to a vast amount": {
+        "Chinese_Idiom": "沧海一粟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容微不足道的事物在广阔的范围内，或者与某种庞大的事物相比较来说非常渺小"
+    },
+    "to appear and disappear in a vague and elusive manner": {
+        "Chinese_Idiom": "若隐若现",
+        "English_Idiom": "into thin air",
+        "Chinese_Meaning": "暗示出现，模糊不清的样子"
+    },
+    "longing and thinking day and night; constantly yearning for someone or something": {
+        "Chinese_Idiom": "朝思暮想",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "日夜追忆某人或某事，思念万分"
+    },
+    "perfect and flawless": {
+        "Chinese_Idiom": "完美无缺",
+        "English_Idiom": "peachy keen",
+        "Chinese_Meaning": "没有任何缺陷或瑕疵，十分完美"
+    },
+    "to be displaced or homeless, without a place to settle or belong": {
+        "Chinese_Idiom": "流离失所",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指失去了依靠，无处栖身"
+    },
+    "a cunning rabbit has three burrows; a person with foresight always has backups or alternative plans": {
+        "Chinese_Idiom": "狡兔三窟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "一个狡猾的兔子会有三个藏身之处，比喻有备而来"
+    },
+    "imposing and awe-inspiring": {
+        "Chinese_Idiom": "威风凛凛",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容气势威严，令人敬畏的样子"
+    },
+    "to be self-destructive; to willingly go towards danger or harm": {
+        "Chinese_Idiom": "飞蛾投火",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容自取灭亡或自己找死的行为。比喻自作自受，不自量力。"
+    },
+    "far and wide; all over the place": {
+        "Chinese_Idiom": "山南海北",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容说话或谈论轻浮不着边际，没有主题或脉络"
+    },
+    "exaggerating one's words": {
+        "Chinese_Idiom": "夸大其词",
+        "English_Idiom": "make a meal of",
+        "Chinese_Meaning": "言过其实，说的不是实情"
+    },
+    "Things have changed and are no longer the same as before": {
+        "Chinese_Idiom": "今非昔比",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "现在和以前完全不一样。比喻情况、条件的变化极大。"
+    },
+    "a country known for its courtesy and etiquette; a nation that upholds proper manners and protocols": {
+        "Chinese_Idiom": "礼仪之邦",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指待人接物规矩有礼貌，从而被世人所尊重"
+    },
+    "fair and impartial": {
+        "Chinese_Idiom": "公正无私",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "不偏袒任何一方，完全公平正义。"
+    },
+    "widely known by everyone": {
+        "Chinese_Idiom": "人所共知",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "众人都知道的，人人皆知的"
+    },
+    "having a bad reputation, widely known for negative reasons": {
+        "Chinese_Idiom": "声名狼藉",
+        "English_Idiom": "your name is mud",
+        "Chinese_Meaning": "指名声被损坏，声誉遭受贬低"
+    },
+    "well-known and famous": {
+        "Chinese_Idiom": "大名鼎鼎",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容名气很大，很有名。"
+    },
+    "remain calm and composed in the face of difficulties or challenges": {
+        "Chinese_Idiom": "泰然处之",
+        "English_Idiom": "cool as a cucumber",
+        "Chinese_Meaning": "镇定自若，坦然面对困境"
+    },
+    "\"fly wing to wing\" or \"fly together\"": {
+        "Chinese_Idiom": "比翼双飞",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容夫妻或情侣之间互相鼎力相助，共同奋斗"
+    },
+    "highly appealing or enchanting; makes people feel excited and fascinated": {
+        "Chinese_Idiom": "令人神往",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "使人非常向往或羡慕的样子"
+    },
+    "appreciating both refined and popular tastes together": {
+        "Chinese_Idiom": "雅俗共赏",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指高雅与通俗的艺术形式相结合，受到各种不同文化背景的人们共同欣赏"
+    },
+    "most likely; in all probability; almost certainly": {
+        "Chinese_Idiom": "十之八九",
+        "English_Idiom": "on the cards",
+        "Chinese_Meaning": "形容差不多，很接近的意思"
+    },
+    "benefiting from both sides, finding advantages in all directions": {
+        "Chinese_Idiom": "左右逢源",
+        "English_Idiom": "the best of both worlds",
+        "Chinese_Meaning": "能够在不同的地方都能找到利益或支持。形容情况十分有利。"
+    },
+    "gentle and refined": {
+        "Chinese_Idiom": "温文尔雅",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容举止文雅，态度温和。"
+    },
+    "penetrate deeply into the subject matter, having a profound understanding": {
+        "Chinese_Idiom": "入木三分",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "深入，准确地刻画出实质，简称‘入木’"
+    },
+    "to escape and never be found again": {
+        "Chinese_Idiom": "逃之夭夭",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "逃得迅速，一去不回"
+    },
+    "to be busy and working tirelessly": {
+        "Chinese_Idiom": "戎马倥偬",
+        "English_Idiom": "as busy as a bee",
+        "Chinese_Meaning": "忙碌奔走于战场，形容生活或工作非常辛苦"
+    },
+    "crowd around and follow closely": {
+        "Chinese_Idiom": "前呼后拥",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人们前后呼应，一齐表示拥护、支持或进攻。也形容人们追逐、拥挤的景象。"
+    },
+    "volunteering oneself for a task or position without being asked": {
+        "Chinese_Idiom": "毛遂自荐",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "主动推荐自己或主动提出自己的能力，志愿等"
+    },
+    "down-to-earth; be steadfast and practical in attitude and approach": {
+        "Chinese_Idiom": "脚踏实地",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "认真踏实地去做事情"
+    },
+    "laughing heartily, to the point of holding one's stomach": {
+        "Chinese_Idiom": "捧腹大笑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容笑得非常开心，笑声大、连连不绝"
+    },
+    "deeply engraved in one's heart": {
+        "Chinese_Idiom": "刻骨铭心",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "印记在心，永远记得，记忆深刻的。"
+    },
+    "quick and nimble in reacting or seizing opportunities": {
+        "Chinese_Idiom": "手急眼快",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容做事敏捷迅速，反应灵敏"
+    },
+    "killing someone without giving them a chance to learn or improve": {
+        "Chinese_Idiom": "不教而杀",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指教育不成功而被杀害，比喻无知无识，不加思索就做事"
+    },
+    "as close as kin, like brothers and sisters": {
+        "Chinese_Idiom": "亲如骨肉",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻亲密得像亲人一样。"
+    },
+    "being hesitant or reluctant to do something, but eventually agreeing to it": {
+        "Chinese_Idiom": "半推半就",
+        "English_Idiom": "fight shy of",
+        "Chinese_Meaning": "形容在表面上推托，其实是心甘情愿接受"
+    },
+    "scholars and literati": {
+        "Chinese_Idiom": "文人墨客",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指读书人、写作人"
+    },
+    "go through extensive trials and hardships to achieve perfection": {
+        "Chinese_Idiom": "千锤百炼",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容经过反复的锤炼和磨炼，变得非常坚强和成熟"
+    },
+    "on the verge of death or exhaustion": {
+        "Chinese_Idiom": "气息奄奄",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "濒临死亡的状态；快要断绝的意思"
+    },
+    "mocking and ridiculing with sarcasm and irony": {
+        "Chinese_Idiom": "冷嘲热讽",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "嘲笑讽刺别人，态度冷淡"
+    },
+    "an abundance of colors and variety; a scene of great diversity": {
+        "Chinese_Idiom": "万紫千红",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容各种颜色的鲜花盛开，也形容色彩丰富的景象"
+    },
+    "The building is about to collapse": {
+        "Chinese_Idiom": "大厦将倾",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "情况非常危险，可能会崩塌"
+    },
+    "feel extremely uneasy and uncomfortable, as if sitting on pins and needles": {
+        "Chinese_Idiom": "如坐针毡",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容因坐立不安而焦虑不安的状态"
+    },
+    "behaving in a domineering and tyrannical manner": {
+        "Chinese_Idiom": "横行霸道",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "独断专横，毫无顾及他人的权益"
+    },
+    "completely different; entirely distinct": {
+        "Chinese_Idiom": "迥然不同",
+        "English_Idiom": "night and day",
+        "Chinese_Meaning": "形容完全不同，差别极大"
+    },
+    "hard to believe": {
+        "Chinese_Idiom": "难以置信",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "表示事情非常令人难以相信，难以接受"
+    },
+    "unreasonably and outrageously harmful, going against morality and justice": {
+        "Chinese_Idiom": "伤天害理",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容所做的事情极其荒唐、不合情理，甚至有害于天地间的公正和秩序"
+    },
+    "having great supernatural powers or abilities": {
+        "Chinese_Idiom": "神通广大",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "拥有非凡的才能、能力或智慧"
+    },
+    "to evade and dodge the question, to speak ambiguously": {
+        "Chinese_Idiom": "闪烁其辞",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "用虚伪的言辞掩饰或回避问题"
+    },
+    "a strategic move that surpasses the opponent's and gains an advantage": {
+        "Chinese_Idiom": "棋高一着",
+        "English_Idiom": "jockey for position",
+        "Chinese_Meaning": "比喻一个棋局中，下的一步棋使自己处于极有利的地位，使对方难以应付"
+    },
+    "to punish severely or torture someone": {
+        "Chinese_Idiom": "剥皮抽筋",
+        "English_Idiom": "come down on somebody like a ton of bricks",
+        "Chinese_Meaning": "比喻残酷地虐待或折磨人"
+    },
+    "without any support or someone to rely on": {
+        "Chinese_Idiom": "无依无靠",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "没有任何依靠和支持，处于孤立无援的状态"
+    },
+    "wearing a big smile on one's face, extremely happy": {
+        "Chinese_Idiom": "喜笑颜开",
+        "English_Idiom": "grin like a Cheshire cat",
+        "Chinese_Meaning": "形容非常开心的样子，脸上露出笑容"
+    },
+    "cause and effect; the relationship between an action or event and its consequences": {
+        "Chinese_Idiom": "前因后果",
+        "English_Idiom": "an act of God",
+        "Chinese_Meaning": "指事物发展产生的原因和结果"
+    },
+    "to pass a major examination and have one's name listed on the golden list": {
+        "Chinese_Idiom": "金榜题名",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "在科举考试中获得名次，特指考试成功，取得优异的成绩"
+    },
+    "a big lie that is completely unfounded or fabricated": {
+        "Chinese_Idiom": "弥天大谎",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指十分巨大的谎言，谎话虽然显而易见，但却被人以为是真的"
+    },
+    "profound understanding and insightful viewpoint": {
+        "Chinese_Idiom": "真知灼见",
+        "English_Idiom": "speak _ same language",
+        "Chinese_Meaning": "深刻而有见地的见解或观点"
+    },
+    "regroup and start afresh; reorganize and make a comeback": {
+        "Chinese_Idiom": "重整旗鼓",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "重新整顿、重新振作"
+    },
+    "swallow one's anger and remain silent": {
+        "Chinese_Idiom": "忍气吞声",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "忍受委屈，不敢发声或抱怨"
+    },
+    "smooth sailing in all matters": {
+        "Chinese_Idiom": "万事亨通",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容一切顺利，事事如意"
+    },
+    "to alleviate one's thirst by imagining oneself near a plum tree": {
+        "Chinese_Idiom": "望梅止渴",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "心里渴望的事情无法得到满足时，借助想象来解渴。比喻用自己的心理安慰自己。"
+    },
+    "to act extremely contrary to what is right and proper": {
+        "Chinese_Idiom": "大逆不道",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指行为极其不正，背离正道"
+    },
+    "make great efforts and be determined to achieve success": {
+        "Chinese_Idiom": "奋发有为",
+        "English_Idiom": "go places",
+        "Chinese_Meaning": "形容人积极主动，努力奋发，有所作为，有成就"
+    },
+    "bravery of a common man": {
+        "Chinese_Idiom": "匹夫之勇",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指普通人仅有的勇敢精神。比喻独立决策的胆略或个人英勇的气概，缺乏全局的考虑和智谋。"
+    },
+    "to leave and pursue a better life elsewhere": {
+        "Chinese_Idiom": "远走高飞",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "离开原地，追求更高的目标和更大的成功"
+    },
+    "having a superficial appearance that is not supported by substance": {
+        "Chinese_Idiom": "虚有其表",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "外表看起来很好，实际上内在空虚、没有真实的实力"
+    },
+    "refusing to change or learn from mistakes even until death": {
+        "Chinese_Idiom": "至死不悟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "固执到底，始终不改正错误或认识到真相"
+    },
+    "having courage but lacking strategy or foresight": {
+        "Chinese_Idiom": "有勇无谋",
+        "English_Idiom": "bite the bullet",
+        "Chinese_Meaning": "指人胆大而不善谋划，缺乏智谋和策略，无法做好计划和应对困难的能力"
+    },
+    "extremely obedient or compliant, willing to follow someone's every instruction": {
+        "Chinese_Idiom": "百依百顺",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "完全服从，全盘顺从"
+    },
+    "giving sincere advice or heartfelt persuasion": {
+        "Chinese_Idiom": "苦口婆心",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容劝告或教育别人十分慈爱、关心，用心良苦"
+    },
+    "deserving of punishment, getting what one deserves": {
+        "Chinese_Idiom": "罪有应得",
+        "English_Idiom": "serve someone right",
+        "Chinese_Meaning": "因犯错误而应受到相应的惩罚"
+    },
+    "having multiple wives and concubines": {
+        "Chinese_Idiom": "三妻四妾",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指男子娶了三个正妻和四个偏房，形容男子纳妾很多"
+    },
+    "perseverance; to keep working hard and not give up easily": {
+        "Chinese_Idiom": "锲而不舍",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容做事情有毅力，始终不放弃"
+    },
+    "to fight alone without any support or assistance": {
+        "Chinese_Idiom": "孤军奋战",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容一个人在困境中独自奋斗或战斗"
+    },
+    "exotic and rare treasures": {
+        "Chinese_Idiom": "奇珍异宝",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "非常稀有而珍贵的物品或事物"
+    },
+    "to burn one's bridges": {
+        "Chinese_Idiom": "破釜沉舟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "决心孤注一掷，给自己退路"
+    },
+    "To examine one's conscience": {
+        "Chinese_Idiom": "扪心自问",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "对自己进行深入反省与自问"
+    },
+    "to come up with various excuses or pretexts": {
+        "Chinese_Idiom": "巧立名目",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指以巧妙的方式创造各种名目或理由，以达到某种目的"
+    },
+    "to prioritize and uphold righteousness over family ties or personal relationships": {
+        "Chinese_Idiom": "大义灭亲",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "为了大义，不惜伤害自己的亲属"
+    },
+    "being stubborn and unwilling to change": {
+        "Chinese_Idiom": "顽固不化",
+        "English_Idiom": "dig heels in",
+        "Chinese_Meaning": "（形容人）坚持错误的观点、不肯改正"
+    },
+    "diversity and inclusiveness, referring to a situation where various talents and ideas flourish together": {
+        "Chinese_Idiom": "百花齐放",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容各种不同的事物或观点都能得到充分展现和发展的局面"
+    },
+    "\"Taking ancient wisdom as a lesson\" or \"learning from history\"": {
+        "Chinese_Idiom": "以古为鉴",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "从古代的事情中汲取教训，作为今后行动的参考"
+    },
+    "to flatter and fawn over someone in order to gain their favor": {
+        "Chinese_Idiom": "胁肩谄笑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "以恭谨的态度巴结、讨好别人，常常表现出一些不真诚的笑容"
+    },
+    "a state of great suffering or distress": {
+        "Chinese_Idiom": "生灵涂炭",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人民生活艰苦，遭受苦难"
+    },
+    "attack someone when they are unprepared": {
+        "Chinese_Idiom": "攻其不备",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "趁对方没有防备的时候进攻，以取得优势"
+    },
+    "being far apart despite being close; a vast distance despite being just a stone's throw away": {
+        "Chinese_Idiom": "咫尺天涯",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容距离虽然很近，但感觉却像天涯一样遥远。"
+    },
+    "to give up or abandon something halfway": {
+        "Chinese_Idiom": "打退堂鼓",
+        "English_Idiom": "throw in _ towel",
+        "Chinese_Meaning": "放弃行动，不再进行下去"
+    },
+    "quickly chasing after someone or something": {
+        "Chinese_Idiom": "急起直追",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "追赶得很快，赶上了前面的人或物"
+    },
+    "to cover up problems and present a false sense of peace or harmony": {
+        "Chinese_Idiom": "粉饰太平",
+        "English_Idiom": "bury the hatchet",
+        "Chinese_Meaning": "掩盖真实情况，使人误以为平安无事"
+    },
+    "hard to support alone, needing others' help": {
+        "Chinese_Idiom": "独木难支",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容个人或者力量单薄，无法独自支撑或应付现实困境"
+    },
+    "unable to suppress one's anger": {
+        "Chinese_Idiom": "怒不可遏",
+        "English_Idiom": "blow a fuse",
+        "Chinese_Meaning": "情绪激动到无法控制，无法压抑住"
+    },
+    "completely in the wrong; making a big mistake": {
+        "Chinese_Idiom": "大错特错",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "错误非常严重，特别离谱"
+    },
+    "to achieve rapid success and rise to a high position": {
+        "Chinese_Idiom": "飞黄腾达",
+        "English_Idiom": "by leaps and bounds",
+        "Chinese_Meaning": "形容从贫穷、低微的地位迅速地发展到富裕、高贵的地位"
+    },
+    "feel disappointed and lose interest": {
+        "Chinese_Idiom": "心灰意冷",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "对事情的兴趣逐渐消失，失去了动力和热情"
+    },
+    "accumulate a large amount of debt": {
+        "Chinese_Idiom": "债台高筑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指负债累累，欠债过多，像建起一座高高的债台一样"
+    },
+    "to preserve one's energy and sharpen one's skills": {
+        "Chinese_Idiom": "养精蓄锐",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "储存精力，等待时机"
+    },
+    "A chaotic and disastrous scene; a situation where everything is in chaos and totally ruined": {
+        "Chinese_Idiom": "鸡飞蛋打",
+        "English_Idiom": "all hell broke loose",
+        "Chinese_Meaning": "形容形势混乱，乌烟瘴气"
+    },
+    "Each takes their own position; everyone settles into their respective roles": {
+        "Chinese_Idiom": "各就各位",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "每个人占好自己的位置，不乱动"
+    },
+    "winning people's hearts; gaining popularity or support by using strategic methods": {
+        "Chinese_Idiom": "笼络人心",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "通过巧妙手段使人对自己感到亲近，赢得他们的支持或喜爱"
+    },
+    "not having a meeting of minds; unable to communicate effectively; incompatible in conversation": {
+        "Chinese_Idiom": "话不投机",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "意见或观点不一致，无法沟通或合作"
+    },
+    "a difficult and treacherous path; also refers to a complex and difficult situation": {
+        "Chinese_Idiom": "山重水复",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容山势重叠，水流回旋的地方。也形容路途崎岖、艰险曲折的"
+    },
+    "\"seeing the light at the end of the tunnel\", \"finding a solution or seeing hope after a difficult or challenging situation\"": {
+        "Chinese_Idiom": "拨云见日",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容摆脱困境，看到希望"
+    },
+    "completely different, completely contrasting": {
+        "Chinese_Idiom": "截然不同",
+        "English_Idiom": "night and day",
+        "Chinese_Meaning": "完全不同，截然相反"
+    },
+    "turning a dangerous situation into a safe one": {
+        "Chinese_Idiom": "化险为夷",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "成功地避开危险或困难，使局势变得安全。"
+    },
+    "sharing joys and sorrows together": {
+        "Chinese_Idiom": "同甘共苦",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "共同分享好坏，共度患难"
+    },
+    "loyalty and unwavering devotion": {
+        "Chinese_Idiom": "忠贞不渝",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容坚定不移，忠诚坚贞"
+    },
+    "the rulers and high-ranking officials (referring to powerful or influential individuals)": {
+        "Chinese_Idiom": "帝王将相",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指统治者或高级官员"
+    },
+    "completely exhausted both mentally and physically": {
+        "Chinese_Idiom": "精疲力尽",
+        "English_Idiom": "cream crackered",
+        "Chinese_Meaning": "非常疲倦，体力和精力都耗尽了"
+    },
+    "big but aimless, lacking in substance or purpose": {
+        "Chinese_Idiom": "大而无当",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容做事不切实际，没有具体目标或计划"
+    },
+    "out of reach, unable to do anything about it": {
+        "Chinese_Idiom": "鞭长莫及",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "力量无法达到遥远的地方，比喻能力有限，无法做到想做的事情"
+    },
+    "to become wealthy; to make a fortune": {
+        "Chinese_Idiom": "发家致富",
+        "English_Idiom": "in the money",
+        "Chinese_Meaning": "通过努力工作和经商获得财富，提高生活水平"
+    },
+    "being surprised by something rare or uncommon": {
+        "Chinese_Idiom": "少见多怪",
+        "English_Idiom": "raising eyebrows",
+        "Chinese_Meaning": "形容见识狭窄，对常见的事情都感到奇怪"
+    },
+    "unable to guard against; being caught off guard; being unprepared for unexpected situations": {
+        "Chinese_Idiom": "防不胜防",
+        "English_Idiom": "catch someone napping",
+        "Chinese_Meaning": "指对某种危害、攻击或打击来说十分难以预防或防备"
+    },
+    "looking at someone with disdain or suspicion from the corner of one's eye": {
+        "Chinese_Idiom": "侧目而视",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "对某人傲视或不满的目光或态度"
+    },
+    "ambitious and ruthless, having a strong desire for power or dominance": {
+        "Chinese_Idiom": "狼子野心",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容心怀不轨，野心勃勃，想做出违法或不道德的事情"
+    },
+    "demand exceeds supply, there is more demand for something than there is availability of it": {
+        "Chinese_Idiom": "供不应求",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指产品、劳务等供应不足以满足需求，市场需求大于供应量"
+    },
+    "go with the flow, follow the crowd": {
+        "Chinese_Idiom": "随波逐流",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻跟着别人的潮流、意见或行动，没有自己的主见"
+    },
+    "to be well-informed and receptive to different opinions and ideas": {
+        "Chinese_Idiom": "耳听八方",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容听到来自各方的声音、消息。"
+    },
+    "vividly describe or portray": {
+        "Chinese_Idiom": "绘声绘色",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容文字、言语描绘得栩栩如生，生动形象"
+    },
+    "endure humiliation and shoulder heavy responsibilities": {
+        "Chinese_Idiom": "忍辱负重",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "忍受屈辱，承担重负"
+    },
+    "the beauty of maturity": {
+        "Chinese_Idiom": "成人之美",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指达到成年后才能够展现的美好品质、优点或成就"
+    },
+    "thousands upon thousands": {
+        "Chinese_Idiom": "成千上万",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "表示数量极多，形容数量非常庞大"
+    },
+    "surrounded by dangers on all sides; in an extremely dangerous situation": {
+        "Chinese_Idiom": "险象环生",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容危险重重，处境极为危险"
+    },
+    "beating around the bush": {
+        "Chinese_Idiom": "拐弯抹角",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "用迂回的方式来表达自己的意思；不直接说出来"
+    },
+    "wholeheartedly convinced and sincerely admiring": {
+        "Chinese_Idiom": "心悦诚服",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "表示内心满足并由衷地认同和服从"
+    },
+    "Bold and confident, standing on solid ground": {
+        "Chinese_Idiom": "理直气壮",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "自信而有底气地表达自己的观点，不怕对方反驳"
+    },
+    "discriminating against the poor and favoring the rich": {
+        "Chinese_Idiom": "欺贫爱富",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "歧视穷人，偏爱富人"
+    },
+    "exaggerating or making false statements beyond the reality": {
+        "Chinese_Idiom": "言过其实",
+        "English_Idiom": "blowing smoke",
+        "Chinese_Meaning": "夸大事实，超出实际情况"
+    },
+    "benefiting from a single action or effort": {
+        "Chinese_Idiom": "一得之功",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "做一件小事就得到了巨大的成功"
+    },
+    "to have more than enough food and clothing; to live a well-off life": {
+        "Chinese_Idiom": "丰衣足食",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指物质生活丰富，不缺衣食"
+    },
+    "wearing armor and holding sharp weapons; to be ready for battle; to be prepared for challenges": {
+        "Chinese_Idiom": "披坚执锐",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坚定果断地拿起兵器。用来形容对待事情非常坚决。"
+    },
+    "to be extremely happy or delighted": {
+        "Chinese_Idiom": "眉开眼笑",
+        "English_Idiom": "as happy as a clam",
+        "Chinese_Meaning": "形容非常开心，欢笑的样子"
+    },
+    "putting personal interest above public interest": {
+        "Chinese_Idiom": "以私害公",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "以个人的私利损害公共利益"
+    },
+    "unforgivable crimes, no mercy": {
+        "Chinese_Idiom": "十恶不赦",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指罪恶滔天，不可饶恕"
+    },
+    "being attacked from both the front and the back": {
+        "Chinese_Idiom": "腹背受敌",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "处于四面受敌的危险境地"
+    },
+    "to compete for attention or to show off, often in a flashy or extravagant way": {
+        "Chinese_Idiom": "争奇斗艳",
+        "English_Idiom": "cut a dash",
+        "Chinese_Meaning": "形容人们为了出人头地、引人注意，而拼命展示自己的风采，竞相争夺"
+    },
+    "to make things mysterious and complicated on purpose": {
+        "Chinese_Idiom": "故弄玄虚",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "耍一些花招，故意搞得复杂而使人难以理解。"
+    },
+    "corrupt officials": {
+        "Chinese_Idiom": "贪官污吏",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指贪污贿赂、懒政冥职、背弃职守、欺压百姓的官吏"
+    },
+    "having ulterior motives; scheming": {
+        "Chinese_Idiom": "图谋不轨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "有不正当的目的或企图"
+    },
+    "gathering wisdom from many sources, seeking input and suggestions from different perspectives": {
+        "Chinese_Idiom": "集思广益",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指广泛地听取不同的意见，以提高智慧和得出更好的结论"
+    },
+    "insignificant; not worth mentioning": {
+        "Chinese_Idiom": "微不足道",
+        "English_Idiom": "a dime's worth",
+        "Chinese_Meaning": "形容事物非常小，重要性不值得一提"
+    },
+    "bizarre and nonsensical ideas or theories": {
+        "Chinese_Idiom": "奇谈怪论",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指言辞荒谬离奇，与常理不符的言论或论点"
+    },
+    "expressing extreme gratitude or relief; being thankful to heaven and earth": {
+        "Chinese_Idiom": "谢天谢地",
+        "English_Idiom": "thank Goodness",
+        "Chinese_Meaning": "表示对上天的感谢和庆幸之情"
+    },
+    "to leave one's hometown and live in a foreign place": {
+        "Chinese_Idiom": "背井离乡",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "离开故乡，背井而去"
+    },
+    "To focus one's attention intently and unwaveringly": {
+        "Chinese_Idiom": "目不转睛",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容非常专注地盯着某个对象，不转移视线"
+    },
+    "to be at a loss, unsure of what to do or how to handle a situation": {
+        "Chinese_Idiom": "不知所措",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容遇到突发情况或困难时，不知道该怎么做"
+    },
+    "refreshing autumn weather": {
+        "Chinese_Idiom": "秋高气爽",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容秋天的天气宜人，空气清爽"
+    },
+    "to speak fluently and eloquently": {
+        "Chinese_Idiom": "口若悬河",
+        "English_Idiom": "silver tongued",
+        "Chinese_Meaning": "形容能言善辩，口才非常好"
+    },
+    "having a harmonious and equal relationship between husband and wife": {
+        "Chinese_Idiom": "举案齐眉",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "夫妻之间互相尊重，相敬如宾的样子"
+    },
+    "masterful craftsmanship, referring to something created with exceptional skill and expertise": {
+        "Chinese_Idiom": "鬼斧神工",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容工艺巧妙，技艺高超，好像是鬼神所用的工具一样。"
+    },
+    "sensationalized or exaggerated words of warning": {
+        "Chinese_Idiom": "危言耸听",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "夸大事实，说出吓人的话以引起注意"
+    },
+    "very few; scarce; rare": {
+        "Chinese_Idiom": "寥寥无几",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "数量很少，很稀少"
+    },
+    "to feel a chilling sensation down one's spine": {
+        "Chinese_Idiom": "毛骨悚然",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "感到非常害怕或恐惧"
+    },
+    "various postures and states, diverse and colorful": {
+        "Chinese_Idiom": "千姿百态",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形态多种多样，变化很多"
+    },
+    "the family falls apart, with the husband and children scattered": {
+        "Chinese_Idiom": "妻离子散",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "家庭破裂，夫妻分离。比喻家庭不和睦，家庭成员分散。"
+    },
+    "to use the opponent's strategy against them": {
+        "Chinese_Idiom": "将计就计",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "利用对方的计谋来反制对方，采取相应的措施"
+    },
+    "willing to do any labor and bear any hardship": {
+        "Chinese_Idiom": "任劳任怨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无论做何事都不怕劳苦，不计较辛苦与委屈"
+    },
+    "use the form of address 'brother' to someone who is not a real brother, indicating a friendly and close relationship": {
+        "Chinese_Idiom": "称兄道弟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容关系亲密，互相称呼兄弟"
+    },
+    "old problems or bad habits resurging, repeating the same mistakes": {
+        "Chinese_Idiom": "故态复萌",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "某种不好的状况或现象重新出现、再次发生"
+    },
+    "disperse or scatter in a sudden and disorderly manner": {
+        "Chinese_Idiom": "一哄而散",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人们一起聚集很热闹，但很快又散开了"
+    },
+    "approaching a subject indirectly or subtly, usually in order to avoid confrontation or to achieve a desired outcome": {
+        "Chinese_Idiom": "旁敲侧击",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "间接地提出问题或抨击，而不是直接表达或批评"
+    },
+    "to be evasive or ambiguous in speech": {
+        "Chinese_Idiom": "含糊其辞",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "说话或表达不清楚，故意模棱两可不明确"
+    },
+    "Take precautions and prevent problems before they become serious": {
+        "Chinese_Idiom": "防微杜渐",
+        "English_Idiom": "better safe than sorry",
+        "Chinese_Meaning": "预防微小的事物，防止其逐渐扩大成为大问题"
+    },
+    "to wait for death without attempting to change or improve the situation": {
+        "Chinese_Idiom": "坐以待毙",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻坐着等死，不去争取生存或成功的机会"
+    },
+    "to have great power and influence, able to command the wind and summon the rain": {
+        "Chinese_Idiom": "呼风唤雨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容有权势的人可以随意支配事物，操纵一切"
+    },
+    "wearing a worried frown; having a furrowed brow due to worries or difficulties": {
+        "Chinese_Idiom": "愁眉不展",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容忧愁的表情，眉头紧锁，一副苦恼的样子"
+    },
+    "show mercy, give someone a break": {
+        "Chinese_Idiom": "高抬贵手",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "以高尚的品质或态度对待低下的人或事物，不卑不亢地给予帮助或宽容"
+    },
+    "to be stunned or dumbfounded": {
+        "Chinese_Idiom": "呆若木鸡",
+        "English_Idiom": "would you Adam and Eve it?",
+        "Chinese_Meaning": "形容十分茫然、木讷，没有反应或表情。"
+    },
+    "to go against public opinion and stand firm with one's own beliefs or decisions": {
+        "Chinese_Idiom": "力排众议",
+        "English_Idiom": "stick to _ guns",
+        "Chinese_Meaning": "毫不理会群众的反对意见，执意按照自己的想法去做"
+    },
+    "boasting about one's own achievements; bragging about oneself": {
+        "Chinese_Idiom": "自吹自擂",
+        "English_Idiom": "blow one's own horn",
+        "Chinese_Meaning": "自我吹嘘、自我吹捧，夸耀自己的才能、成就等"
+    },
+    "eager and ready, as if rubbing one's hands together in anticipation": {
+        "Chinese_Idiom": "摩拳擦掌",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "意指心情愉快，精神饱满，表示准备好展开行动或战斗的状态。"
+    },
+    "to exploit someone to the fullest extent, squeezing out every last bit of benefit from them": {
+        "Chinese_Idiom": "敲骨吸髓",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容残忍、凶狠的剥削，使人无法承受或无法恢复。"
+    },
+    "firm and unyielding; steadfast and resolute": {
+        "Chinese_Idiom": "坚贞不屈",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坚强而不屈服"
+    },
+    "praise without end": {
+        "Chinese_Idiom": "赞不绝口",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容夸奖赞扬的话说得很多，说不完"
+    },
+    "establish a family and career, to settle down and achieve success": {
+        "Chinese_Idiom": "成家立业",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指男子已经结婚并有了自己的事业"
+    },
+    "An army that fights in desperation will surely win": {
+        "Chinese_Idiom": "哀兵必胜",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻士气低落的军队容易失败，但一旦拼死战斗，往往能够获得胜利"
+    },
+    "upright and righteous; with a sense of justice and integrity": {
+        "Chinese_Idiom": "大义凛然",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指一个人有非常高尚的品质，为了正义和公道而坚定不移"
+    },
+    "to provoke deep thought or reflection": {
+        "Chinese_Idiom": "发人深省",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "使人深深地思考或反思"
+    },
+    "acting coy, hesitating or being indecisive": {
+        "Chinese_Idiom": "扭扭捏捏",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容做事犹豫不决，不果断"
+    },
+    "rewarding those who deserve it and punishing those who deserve it": {
+        "Chinese_Idiom": "信赏必罚",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "必定奖赏和处罚"
+    },
+    "Think thrice before you act": {
+        "Chinese_Idiom": "三思而行",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "思考三次再采取行动"
+    },
+    "extremely poor": {
+        "Chinese_Idiom": "赤贫如洗",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "非常贫穷，一无所有"
+    },
+    "to be unable to offer assistance even though one wants to help": {
+        "Chinese_Idiom": "爱莫能助",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无法帮助，不能提供任何帮助"
+    },
+    "limited talent or ability": {
+        "Chinese_Idiom": "八斗之才",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容才能非常出众，非常有才华"
+    },
+    "honest and upright, in a fair and open manner": {
+        "Chinese_Idiom": "正大光明",
+        "English_Idiom": "fair and square",
+        "Chinese_Meaning": "公开、明正典划地做事"
+    },
+    "sudden impulse or inspiration": {
+        "Chinese_Idiom": "心血来潮",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指突然产生某种决心或兴趣，情绪暂时高涨"
+    },
+    "grand and magnificent in appearance or style": {
+        "Chinese_Idiom": "富丽堂皇",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容建筑物装饰华丽，气派宏大的样子"
+    },
+    "selfless and impartial": {
+        "Chinese_Idiom": "大公无私",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无私无己，公正公平"
+    },
+    "be extremely close and loyal to each other, willing to sacrifice for each other": {
+        "Chinese_Idiom": "肝胆相照",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容朋友之间互相忠诚信任，彼此了解深刻"
+    },
+    "to be unable to recover after a setback or failure": {
+        "Chinese_Idiom": "一蹶不振",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "遇到困难就受挫，一失意就无法恢复"
+    },
+    "under the watchful eyes of the public, in full view of everyone": {
+        "Chinese_Idiom": "众目睽睽",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "在众人的目光下；公众的目光集中在某一事物上"
+    },
+    "act with caution and consideration": {
+        "Chinese_Idiom": "相机行事",
+        "English_Idiom": "throw caution to _ wind",
+        "Chinese_Meaning": "按照情况灵活处理事情"
+    },
+    "beautiful and attractive appearance, with a graceful demeanor": {
+        "Chinese_Idiom": "妍姿艳质",
+        "English_Idiom": "easy on the eye",
+        "Chinese_Meaning": "形容女子的容貌美丽动人"
+    },
+    "skillful and clever, appearing clumsy or naive": {
+        "Chinese_Idiom": "大巧若拙",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "以巧妙手法表现得很笨拙，以谦逊态度掩饰自己的聪明才智"
+    },
+    "to humble oneself and submit to someone else's authority or demands": {
+        "Chinese_Idiom": "卑躬屈膝",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "屈从谦逊，低声下气"
+    },
+    "universal celebration": {
+        "Chinese_Idiom": "普天同庆",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "人人欢庆，共同庆祝"
+    },
+    "irrelevant to the main point": {
+        "Chinese_Idiom": "无关宏旨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "与主要目标无关"
+    },
+    "too many people to do a job, usually leading to inefficiency or confusion": {
+        "Chinese_Idiom": "人浮于事",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指人多于事务或职责时，个人的作用会变得不重要或不明显"
+    },
+    "tears streaming down one's face": {
+        "Chinese_Idiom": "泪流满面",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "因悲伤或痛苦而流下眼泪"
+    },
+    "pure and pristine, without any blemish or impurity": {
+        "Chinese_Idiom": "冰清玉洁",
+        "English_Idiom": "squeaky clean",
+        "Chinese_Meaning": "形容人或事物纯洁无瑕，没有污点"
+    },
+    "reaching the top of a tall pole or achieving a high level of success": {
+        "Chinese_Idiom": "百尺竿头",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指离成功或目标还差一点点距离"
+    },
+    "prosperity of the people leads to a strong nation": {
+        "Chinese_Idiom": "民富国强",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻国家经济繁荣，人民生活富裕，国力强大"
+    },
+    "not surprised or shocked by strange or unusual things": {
+        "Chinese_Idiom": "见怪不怪",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容经常遇到奇怪、稀罕的事物时不感到惊奇或惊讶"
+    },
+    "imminent, pressing, or urgent": {
+        "Chinese_Idiom": "迫在眉睫",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "紧迫到近在眉毛的地方，比喻问题十分紧急"
+    },
+    "a skill or expertise in a particular area": {
+        "Chinese_Idiom": "一技之长",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指某一种专门的技能或特长"
+    },
+    "reluctant to part; unwilling to say goodbye": {
+        "Chinese_Idiom": "恋恋不舍",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容舍不得分开、放手"
+    },
+    "Stay alert and cautious even in times of peace.": {
+        "Chinese_Idiom": "安不忘危",
+        "English_Idiom": "keep _ eyes peeled",
+        "Chinese_Meaning": "持续保持警惕，尽管目前情况安全稳定"
+    },
+    "desperate people will resort to desperate measures": {
+        "Chinese_Idiom": "狗急跳墙",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻在绝境中出于绝望或无计可施时不顾一切地采取激烈的行动"
+    },
+    "to use two methods or strategies simultaneously for a better result": {
+        "Chinese_Idiom": "双管齐下",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "采取两种方法或手段同时进行，以更好地达到目的"
+    },
+    "romantic and beautiful scenery": {
+        "Chinese_Idiom": "风花雪月",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容文艺"
+    },
+    "united in a common cause, despite personal differences or conflicts": {
+        "Chinese_Idiom": "同仇敌忾",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指为了共同的目标，抱着同样的愤懑和敌意"
+    },
+    "a once-in-a-lifetime opportunity": {
+        "Chinese_Idiom": "千载难逢",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容机会非常罕见，难以遇到"
+    },
+    "Receiving help and support when one is in a position of power or authority; also refers to the idea that people are more willing to assist those who are successful or have power": {
+        "Chinese_Idiom": "得道多助",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "如果你追求真理和正义，你会得到更多的支持和帮助"
+    },
+    "be in high spirits; be filled with joy and excitement": {
+        "Chinese_Idiom": "兴高采烈",
+        "English_Idiom": "be on cloud nine",
+        "Chinese_Meaning": "形容非常高兴、喜悦的样子"
+    },
+    "to win every battle; to have a perfect record in competing or fighting": {
+        "Chinese_Idiom": "百战百胜",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "经过多次战斗而每一战都胜利，形容战胜困难不屈服，一再取得胜利。"
+    },
+    "a book that can be read over and over again without getting tired of it": {
+        "Chinese_Idiom": "百读不厌",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "读了很多次，仍然觉得不厌倦，一直想读"
+    },
+    "blush with embarrassment or shame": {
+        "Chinese_Idiom": "面红耳赤",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容因害羞、愤怒、紧张等而脸色发红、耳朵也发红"
+    },
+    "Equal balance of power among three parties": {
+        "Chinese_Idiom": "鼎足之势",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指三足鼎立的局面，也用以形容势力、地位、经济等平衡的状态"
+    },
+    "protecting oneself by being cautious and avoiding trouble": {
+        "Chinese_Idiom": "明哲保身",
+        "English_Idiom": "keep your powder dry",
+        "Chinese_Meaning": "为了自己的安全和利益而回避或回避困难的事情"
+    },
+    "to be too impatient and hasty in dealing with something": {
+        "Chinese_Idiom": "操之过急",
+        "English_Idiom": "champ at the bit",
+        "Chinese_Meaning": "指做事仓促、急躁，容易引发错误或问题"
+    },
+    "making an extra effort to speed up or push oneself harder": {
+        "Chinese_Idiom": "快马加鞭",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "加快速度，加大力量，以便尽快完成或达到目标"
+    },
+    "perseverance; to persist without giving up": {
+        "Chinese_Idiom": "坚持不懈",
+        "English_Idiom": "hang in there",
+        "Chinese_Meaning": "持续不断地坚持下去，不放弃"
+    },
+    "to appear in a threatening or overwhelming manner": {
+        "Chinese_Idiom": "其势汹汹",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形势威胁性很大，气势很凶猛"
+    },
+    "to seek revenge for the smallest grievance": {
+        "Chinese_Idiom": "睚眦必报",
+        "English_Idiom": "settle a score",
+        "Chinese_Meaning": "比喻对仇敌的一点怨恨一定要报仇雪恨"
+    },
+    "empathize, feel someone's pain as if it were one's own": {
+        "Chinese_Idiom": "感同身受",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "能够深切体会他人的感受和痛苦"
+    },
+    "to swallow something whole without understanding it; to accept something without question": {
+        "Chinese_Idiom": "囫囵吞枣",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容读书不求甚解，一下子全部接受，不加分析地全盘接受"
+    },
+    "corrupt and ruthless people in power": {
+        "Chinese_Idiom": "豺狼当道",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容社会乱象丛生，邪恶势力横行，正义受到侵害"
+    },
+    "beautiful and radiant, like flowers and brocade": {
+        "Chinese_Idiom": "如花似锦",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容容貌美丽，服饰华丽"
+    },
+    "breaking the law and violating discipline": {
+        "Chinese_Idiom": "违法乱纪",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指违背法律、纪律"
+    },
+    "criticizing or nitpicking; excessively focusing on minor details and flaws": {
+        "Chinese_Idiom": "评头品足",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "过分挑剔地评价、批判某事物或某人的外表、品格等"
+    },
+    "clearly distinguishing right from wrong, black and white": {
+        "Chinese_Idiom": "黑白分明",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "明确区分是非，不模糊不混淆"
+    },
+    "stealing chickens and touching dogs": {
+        "Chinese_Idiom": "偷鸡摸狗",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "偷偷摸摸地做坏事"
+    },
+    "traveled extensively, going to different places": {
+        "Chinese_Idiom": "走南闯北",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "四处奔波，到处历险"
+    },
+    "to curse or scold loudly and forcefully": {
+        "Chinese_Idiom": "破口大骂",
+        "English_Idiom": "bite someone's head off",
+        "Chinese_Meaning": "强烈而激烈地责骂别人"
+    },
+    "fair and beautiful skin, delicate and graceful appearance": {
+        "Chinese_Idiom": "冰肌玉骨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人的肤质白皙光滑，像冰一样冷净。"
+    },
+    "to die in battle and have one's body wrapped in horsehide": {
+        "Chinese_Idiom": "马革裹尸",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "意指为国家或正义而献出生命"
+    },
+    "apply makeup": {
+        "Chinese_Idiom": "涂脂抹粉",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "在容貌上大量化妆，虚饰外表"
+    },
+    "Blindly believing leads to ignorance": {
+        "Chinese_Idiom": "偏信则暗",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "过分相信某种观点或主张则使思路变得狭隘，盲目行事"
+    },
+    "to evenly share the benefits or rewards": {
+        "Chinese_Idiom": "平分秋色",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指在竞争、比较中共同分享，不分胜负。"
+    },
+    "not think it is right or acceptable": {
+        "Chinese_Idiom": "不以为然",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "不认同，不同意"
+    },
+    "irrefutable evidence": {
+        "Chinese_Idiom": "铁证如山",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容证据确凿，无法抵赖"
+    },
+    "words of great wisdom and authority": {
+        "Chinese_Idiom": "金口玉言",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容说话有分量，像黄金和玉一样珍贵，有价值"
+    },
+    "being in a state of extreme poverty and despair": {
+        "Chinese_Idiom": "穷途潦倒",
+        "English_Idiom": "down and out",
+        "Chinese_Meaning": "处境非常困难，没有办法继续下去"
+    },
+    "to cheer or shout loudly, often in support of a cause or leader": {
+        "Chinese_Idiom": "摇旗呐喊",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻人为了达到某种目的，故意用各种手段制造声势，鼓动群众"
+    },
+    "constantly heard, continuously buzzing in the ears": {
+        "Chinese_Idiom": "不绝于耳",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "声音连续不断，不停地传入耳中"
+    },
+    "having experienced many battles or hardships": {
+        "Chinese_Idiom": "身经百战",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻经历过很多战斗或困难，经验丰富，能力强"
+    },
+    "quietly or silently without saying anything": {
+        "Chinese_Idiom": "默默无言",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "不发声音，不说话。形容无言地默默忍受、不发表意见"
+    },
+    "colorful and splendid": {
+        "Chinese_Idiom": "绚丽多彩",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容充满色彩，美丽多姿，富有变化和创意"
+    },
+    "an ideal and harmonious state, often used to describe a happy and blissful marriage or life": {
+        "Chinese_Idiom": "花好月圆",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "婚姻和家庭美满幸福"
+    },
+    "\"uproar fills the sky\"; \"chaotically flying everywhere\"; \"reaching a boiling point\"": {
+        "Chinese_Idiom": "沸反盈天",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人们情绪激动到了极点，喧嚣不止"
+    },
+    "actual talent and practical knowledge": {
+        "Chinese_Idiom": "真才实学",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指真正有才能和学问，实实在在的学识"
+    },
+    "head broken and blood flowing; suffering severe injuries": {
+        "Chinese_Idiom": "头破血流",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容受到严重的伤害或遭受重大打击，尤指在斗争、竞争中付出巨大牺牲"
+    },
+    "within one's lifetime": {
+        "Chinese_Idiom": "有生之年",
+        "English_Idiom": "from the cradle to the grave",
+        "Chinese_Meaning": "表示一辈子或某件事未曾有过的事情"
+    },
+    "having extensive knowledge or being knowledgeable in various fields": {
+        "Chinese_Idiom": "满腹经纶",
+        "English_Idiom": "have been around",
+        "Chinese_Meaning": "指人学识渊博，经验丰富，智慧深沉"
+    },
+    "To experience the destruction of one's family and the loss of loved ones": {
+        "Chinese_Idiom": "家破人亡",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "家庭破碎，人员死亡"
+    },
+    "seeing something never seen before": {
+        "Chinese_Idiom": "见所未见",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容看到了以前从未见过的事物或情况"
+    },
+    "to have lost all sense of morality or decency": {
+        "Chinese_Idiom": "丧尽天良",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指一个人毫无道德底线，尽做恶劣的事情"
+    },
+    "running a small business with limited capital and resources": {
+        "Chinese_Idiom": "小本经营",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指办事方式简单、行动谨慎，不求大利，刻苦经营"
+    },
+    "living a life of luxury and indulgence, engaging in excessive pleasure-seeking activities such as partying and drinking": {
+        "Chinese_Idiom": "花天酒地",
+        "English_Idiom": "paint _ town red",
+        "Chinese_Meaning": "放荡不羁，过着纵欲放肆的生活"
+    },
+    "to leak information or pass on messages secretly": {
+        "Chinese_Idiom": "通风报信",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "传递消息给外人或敌对方"
+    },
+    "as the name implies, as the name suggests": {
+        "Chinese_Idiom": "顾名思义",
+        "English_Idiom": "go by the name",
+        "Chinese_Meaning": "指按照名字的意思来思考、理解或解释"
+    },
+    "holding onto an outdated belief or strategy despite changes in circumstances": {
+        "Chinese_Idiom": "刻舟求剑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坚持不改变过去的做法或观念，结果事与愿违"
+    },
+    "from ancient times to the present; throughout history": {
+        "Chinese_Idiom": "古往今来",
+        "English_Idiom": "in living memory",
+        "Chinese_Meaning": "多指很长的时间，从很远的过去到现在"
+    },
+    "seeking immediate benefits and disregarding long-term gains": {
+        "Chinese_Idiom": "急功近利",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "急于求成，过于追求眼前的小利益"
+    },
+    "after a meal or during leisure time, in a relaxed and comfortable setting": {
+        "Chinese_Idiom": "茶余饭后",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指饭后喝茶时，泛指日常生活的闲暇时间"
+    },
+    "wearing a smile on one's face that is genuine and welcoming": {
+        "Chinese_Idiom": "笑容可掬",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容笑容非常和善可人"
+    },
+    "unrivaled in the world": {
+        "Chinese_Idiom": "盖世无双",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指无人能及，举世无敌"
+    },
+    "to act contrary to one's usual behavior": {
+        "Chinese_Idiom": "一反常态",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "与平时的表现相反，完全改变原来的态度或行为"
+    },
+    "to cause physical and financial harm to the people": {
+        "Chinese_Idiom": "劳民伤财",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容某种行为或事情既浪费人力物力，又带来损失或造成财务负担"
+    },
+    "never forget as long as one's teeth still exist; refers to having an excellent memory and never forgetting a favor or a grudge": {
+        "Chinese_Idiom": "没齿不忘",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "永远记得，永不忘记"
+    },
+    "to sit on the ground": {
+        "Chinese_Idiom": "席地而坐",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坐在地上，不用座位或椅子。"
+    },
+    "blood is thicker than water": {
+        "Chinese_Idiom": "骨肉相连",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指人与人之间亲疏关系"
+    },
+    "rumors or gossip circulating among people": {
+        "Chinese_Idiom": "风言风语",
+        "English_Idiom": "dish the dirt",
+        "Chinese_Meaning": "指一些流言蜚语，非议之事"
+    },
+    "every plant and tree; every little thing; every detail": {
+        "Chinese_Idiom": "一草一木",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "每一个小细节"
+    },
+    "unassailable and irrefutable; unable to be disproven or refuted": {
+        "Chinese_Idiom": "颠扑不破",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容事物坚固、不可动摇，无法被击破或推翻"
+    },
+    "losing both money and people": {
+        "Chinese_Idiom": "人财两空",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指一个人同时丧失了人和财产，即身败名裂、家破人亡"
+    },
+    "a flaw or shortcoming in an otherwise good situation": {
+        "Chinese_Idiom": "美中不足",
+        "English_Idiom": "silver lining",
+        "Chinese_Meaning": "形容好的地方很多，只是有一点不够理想"
+    },
+    "dazzling, overwhelming, or confusing": {
+        "Chinese_Idiom": "眼花缭乱",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容眼睛看到的东西如此多而繁杂，使人感到困惑、迷失"
+    },
+    "regard as a role model, hold in high esteem": {
+        "Chinese_Idiom": "奉为楷模",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "把某人或某事视为典范，模仿效法的榜样"
+    },
+    "descendants of the Chinese nation": {
+        "Chinese_Idiom": "炎黄子孙",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指中华民族的后代，也泛指中国人"
+    },
+    "Small and delicate family": {
+        "Chinese_Idiom": "小家碧玉",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容女子娇小玲珑，容貌美丽秀丽。"
+    },
+    "having clear and distinct feelings of love and hate, not being ambiguous or indecisive": {
+        "Chinese_Idiom": "爱憎分明",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "明确区分好坏，喜欢与讨厌不含糊"
+    },
+    "drenched in sweat": {
+        "Chinese_Idiom": "汗流浃背",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人体内汗液大量散发出来，浸湿衣背"
+    },
+    "to indulge in the same wrongdoing as others": {
+        "Chinese_Idiom": "率兽食人",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容某人残忍凶狠，不择手段，贪图私利"
+    },
+    "a plain and simple style of writing or speech, without any embellishments or artistic flourishes": {
+        "Chinese_Idiom": "阳春白雪",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容文笔质朴纯美，不加雕饰的作品"
+    },
+    "unable to sleep or eat peacefully": {
+        "Chinese_Idiom": "寝食不安",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指意志动摇，心神不宁，无法安心睡觉和进食"
+    },
+    "meticulous and paying attention to every detail": {
+        "Chinese_Idiom": "一丝不苟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容十分细心，不敢稍有疏忽。"
+    },
+    "passionate and enthusiastic": {
+        "Chinese_Idiom": "慷慨激昂",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容语言或行为豪迈激动，充满慷慨激愤的情感"
+    },
+    "to spoil things by excessive enthusiasm or haste; to hinder progress by trying to expedite it": {
+        "Chinese_Idiom": "拔苗助长",
+        "English_Idiom": "pour cold water on",
+        "Chinese_Meaning": "比喻出于急躁心情，过早干涉或刻意提前推进事物的发展，反而起到适得其反的效果"
+    },
+    "wealth and prosperity": {
+        "Chinese_Idiom": "荣华富贵",
+        "English_Idiom": "well-to-do",
+        "Chinese_Meaning": "形容地位高，财富多，享受荣耀和富裕的生活"
+    },
+    "to settle down and establish a camp": {
+        "Chinese_Idiom": "安营扎寨",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻在某地扎营，打下根基"
+    },
+    "make a show of strength, deliberately exaggerating one's capabilities or resources": {
+        "Chinese_Idiom": "虚张声势",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "夸大自己的实力或威势，以迷惑对方。形容故意表现出威风凛凛的样子，实际上无本质力量或影响力。"
+    },
+    "profound and unfathomable; mysterious and unpredictable": {
+        "Chinese_Idiom": "高深莫测",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "不容易理解或预测，令人感到神秘而难以掌握"
+    },
+    "extremely cruel or inhumane": {
+        "Chinese_Idiom": "惨无人道",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容残忍凶恶，毫无人性"
+    },
+    "considering others before oneself": {
+        "Chinese_Idiom": "先人后己",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "为了他人的利益或事情发生以前，先考虑自己的利益或事情发生以后"
+    },
+    "shamelessly unaware or unconcerned about one's inappropriate behavior": {
+        "Chinese_Idiom": "恬不知耻",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无耻地自以为正当而毫不觉得不好意思"
+    },
+    "to adopt a conservative and cautious approach; to proceed slowly and steadily": {
+        "Chinese_Idiom": "安步当车",
+        "English_Idiom": "play it safe",
+        "Chinese_Meaning": "比喻心情舒畅，无所牵挂"
+    },
+    "to treat or view something casually and indifferently": {
+        "Chinese_Idiom": "等闲视之",
+        "English_Idiom": "give _ _ cold shoulder",
+        "Chinese_Meaning": "对待或看待某事物漠不关心，不加以重视"
+    },
+    "be confused or misled; be under evil influence; be bewitched": {
+        "Chinese_Idiom": "鬼迷心窍",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "被邪恶势力或不良的影响所迷惑，导致思路混乱，做出错误的决策"
+    },
+    "as a last resort; only when there is no other choice": {
+        "Chinese_Idiom": "万不得已",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "表示除非万分无奈，否则绝不会采取某种行动"
+    },
+    "pale and sickly complexion": {
+        "Chinese_Idiom": "面色如土",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容脸色苍白无血色，像土一样。用以比喻由于害怕、病弱、沮丧等原因而变得非常难看。"
+    },
+    "\"muddy water\" or \"dirty water\"": {
+        "Chinese_Idiom": "污泥浊水",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人品行低劣，道德败坏"
+    },
+    "something that is very familiar or common; something that happens frequently or is done regularly": {
+        "Chinese_Idiom": "家常便饭",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容日常生活中的常有的事情，比喻司空见惯或经常发生的事情。"
+    },
+    "detailed and systematic analysis, breaking down a complex issue into its constituent parts": {
+        "Chinese_Idiom": "条分缕析",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "详细分析，一丝不苟地辨别各个细节"
+    },
+    "\"out of breath\" or \"panting heavily\"": {
+        "Chinese_Idiom": "气喘吁吁",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "非常疲惫，呼吸急促"
+    },
+    "to be extremely worried or concerned about someone or something": {
+        "Chinese_Idiom": "牵肠挂肚",
+        "English_Idiom": "hit the panic button",
+        "Chinese_Meaning": "形容对某人或某事牵挂得很担心、很关心"
+    },
+    "having a well-fed body but lacking in intelligence or creativity": {
+        "Chinese_Idiom": "脑满肠肥",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人生活安逸，饱享物质享受，没有压力或困扰"
+    },
+    "able to bend and stretch, being adaptable and capable of adjusting oneself to different situations": {
+        "Chinese_Idiom": "能屈能伸",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "能够适应不同的环境，随机应变"
+    },
+    "squandering without restraint": {
+        "Chinese_Idiom": "挥霍无度",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "浪费大量财物，毫无节制"
+    },
+    "complete destruction or annihilation, wishing that the heavens and the earth would punish or eradicate": {
+        "Chinese_Idiom": "天诛地灭",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容愤怒到了极点，希望天地来惩罚"
+    },
+    "charming, sweet and lovable in various ways": {
+        "Chinese_Idiom": "千娇百媚",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容女子态度温柔娇媚，多种多样，令人陶醉"
+    },
+    "unstable or uncertain, going through hardships": {
+        "Chinese_Idiom": "风雨飘摇",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容情况不稳定，动荡不安"
+    },
+    "to make things more complicated or worse by trying to be clever or deceptive": {
+        "Chinese_Idiom": "弄巧成拙",
+        "English_Idiom": "make heavy weather of",
+        "Chinese_Meaning": "用心过于聪明反而事与愿违"
+    },
+    "profound gratitude and deep sense of friendship": {
+        "Chinese_Idiom": "恩深义重",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容感恩之情深，义务之重"
+    },
+    "clap one's hands and rejoice; to express satisfaction or joy at someone else's misfortune or failure": {
+        "Chinese_Idiom": "拍手称快",
+        "English_Idiom": "dance on someone's grave",
+        "Chinese_Meaning": "表示非常高兴或满意，以至于拍手叫好"
+    },
+    "troubling oneself over insignificant matters": {
+        "Chinese_Idiom": "庸人自扰",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指平庸无才能的人自己给自己找麻烦，烦恼不休"
+    },
+    "to be immersed in a situation, to experience something personally": {
+        "Chinese_Idiom": "身临其境",
+        "English_Idiom": "find feet",
+        "Chinese_Meaning": "亲身经历并置身其中"
+    },
+    "calm and unhurried; relaxed and composed": {
+        "Chinese_Idiom": "从容不迫",
+        "English_Idiom": "cool as a cucumber",
+        "Chinese_Meaning": "形容做事镇定自若，不急不躁。"
+    },
+    "Once a decision is made, never hesitate or waver": {
+        "Chinese_Idiom": "当断不断",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "无法下定决心或断然处置"
+    },
+    "to face a challenge or enter a battle without any protection or support": {
+        "Chinese_Idiom": "赤膊上阵",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "光着身子，没有防备地参加战斗或进行竞技"
+    },
+    "rely on each other for survival": {
+        "Chinese_Idiom": "相依为命",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "彼此互相依赖，离不开对方"
+    },
+    "speak frankly and openly; not afraid to speak the truth": {
+        "Chinese_Idiom": "直言不讳",
+        "English_Idiom": "straight from the shoulder",
+        "Chinese_Meaning": "毫不隐瞒地直接说出真实的意见或事实"
+    },
+    "being careless and not paying attention": {
+        "Chinese_Idiom": "漫不经心",
+        "English_Idiom": "asleep at the wheel",
+        "Chinese_Meaning": "不认真，不关心，不放在心上"
+    },
+    "suspecting everything, being overly suspicious": {
+        "Chinese_Idiom": "疑神疑鬼",
+        "English_Idiom": "smell a rat",
+        "Chinese_Meaning": "过分疑虑，怀疑一切"
+    },
+    "to explain complex concepts in simple terms": {
+        "Chinese_Idiom": "深入浅出",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容讲话或写文章通俗易懂，深奥的道理说得明白简单"
+    },
+    "a few words; brief and concise": {
+        "Chinese_Idiom": "三言两语",
+        "English_Idiom": "thumbnail sketch",
+        "Chinese_Meaning": "简短的话；表明态度或意图的几句话"
+    },
+    "gaining trust and credibility from others": {
+        "Chinese_Idiom": "取信于人",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "赢得他人的信任和信赖"
+    },
+    "to put others before oneself; to sacrifice one's own interests for the sake of others": {
+        "Chinese_Idiom": "舍己为人",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "以别人的利益为重而不顾自己的利益"
+    },
+    "finding a needle in a haystack, attempting to find something extremely difficult or rare": {
+        "Chinese_Idiom": "大海捞针",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容找一个东西非常困难或者几乎不可能"
+    },
+    "keeping promises and cultivating harmony in relationships": {
+        "Chinese_Idiom": "讲信修睦",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "说话算数，和睦相处"
+    },
+    "a gentle wind and light rain": {
+        "Chinese_Idiom": "斜风细雨",
+        "English_Idiom": "it's raining cats and dogs",
+        "Chinese_Meaning": "形容微弱、不顺利的情势。"
+    },
+    "being bold and blatant; showing no shame or fear": {
+        "Chinese_Idiom": "明目张胆",
+        "English_Idiom": "brass neck",
+        "Chinese_Meaning": "公开、毫不掩饰地进行。形容做坏事不怕被人发现。"
+    },
+    "to look at each other in astonishment or confusion": {
+        "Chinese_Idiom": "面面相觑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容大家相互看着，彼此都很困惑"
+    },
+    "share the same goals and ideals, have the same values and principles": {
+        "Chinese_Idiom": "志同道合",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "有相同的理想、目标或兴趣，可以合作或互助的人"
+    },
+    "unable to recover from an illness": {
+        "Chinese_Idiom": "一病不起",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指人病势很重，无法康复。也用来形容事物一旦出了问题就难以恢复"
+    },
+    "persisting in one's mistakes and refusing to wake up to reality": {
+        "Chinese_Idiom": "执迷不悟",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "坚持错误的观点或行为，不愿意认清事实真相或改正错误"
+    },
+    "to resolve a conflict or calm a situation by taking timely and effective measures": {
+        "Chinese_Idiom": "扬汤止沸",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "采取一些措施来应对危险或紧急情况"
+    },
+    "to be serious and earnest": {
+        "Chinese_Idiom": "一本正经",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "表现得很认真和庄重"
+    },
+    "concerns about the future or potential problems that may arise": {
+        "Chinese_Idiom": "后顾之忧",
+        "English_Idiom": "there are clouds on the horizon",
+        "Chinese_Meaning": "指事情发展到一定阶段或谋求事业发展中有许多后顾之忧"
+    },
+    "skilled in speech and argumentation, able to eloquently express oneself": {
+        "Chinese_Idiom": "能言善辩",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "擅长辩论，口才流利"
+    },
+    "abundance, numerous, in great quantities": {
+        "Chinese_Idiom": "纷纷扬扬",
+        "English_Idiom": "in spades",
+        "Chinese_Meaning": "大量散落而飘扬的样子；形容事物或消息密集发生或传播"
+    },
+    "to learn from others' wisdom or knowledge": {
+        "Chinese_Idiom": "拾人牙慧",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "学习别人的智慧或成功经验"
+    },
+    "a crossroads, a point where one must make a decision or choose a direction to go": {
+        "Chinese_Idiom": "十字路口",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻重要的抉择或关键时刻，需要做出决策或选择的地方"
+    },
+    "A group of sly and untrustworthy people": {
+        "Chinese_Idiom": "狐群狗党",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比喻坏人团伙，互相勾结，做坏事"
+    },
+    "working together with one heart and one mind; united in purpose and effort": {
+        "Chinese_Idiom": "同心协力",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容大家齐心合力，共同努力，达到共同目标"
+    },
+    "losing all sense of humanity": {
+        "Chinese_Idiom": "灭绝人性",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指人丧失了道德良知，毫无人性的行为。也指极端残忍，毫无人道主义的行为"
+    },
+    "any slight change or movement, usually implying a sense of alertness or sensitivity": {
+        "Chinese_Idiom": "风吹草动",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容一丁点动静都引起注意和怀疑。也形容对于所注意或了解的事物，任何一个细微的变化都能敏感地察觉到"
+    },
+    "acting foolishly to appear wise": {
+        "Chinese_Idiom": "大智如愚",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "虽然有很高的智慧，但言谈举止却像个愚蠢的人一样，以此来掩饰自己的聪明才智"
+    },
+    "completely and thoroughly": {
+        "Chinese_Idiom": "一干二净",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "完全地，彻底地"
+    },
+    "not worth a cent": {
+        "Chinese_Idiom": "分文不值",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指一个人或事物毫无价值，一无是处"
+    },
+    "having shifty and suspicious eyes, behaving like a thief": {
+        "Chinese_Idiom": "贼眉鼠眼",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容人眉目间带着狡诈、狡猾、不正当的样子"
+    },
+    "Being afraid of what others say or think": {
+        "Chinese_Idiom": "人言可畏",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容因为害怕别人的话而不敢轻易表露自己的意见或行动"
+    },
+    "a combination of firmness and flexibility, balancing strength and gentleness": {
+        "Chinese_Idiom": "刚柔相济",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "平衡地运用刚强和柔和的手法或方式"
+    },
+    "over a long period of time": {
+        "Chinese_Idiom": "天长日久",
+        "English_Idiom": "coon's age",
+        "Chinese_Meaning": "比喻时间长久，日子一天天过去"
+    },
+    "using sweet words and flattery": {
+        "Chinese_Idiom": "花言巧语",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "用华丽而空洞的辞藻巧妙地哄骗人"
+    },
+    "repeatedly emphasizing or insisting on something": {
+        "Chinese_Idiom": "口口声声",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "反复不停地说，嘴上总是挂着同样的话"
+    },
+    "showing one's initial talent and potential": {
+        "Chinese_Idiom": "初试锋芒",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指初次展示出自己的才华、能力或优势"
+    },
+    "to be fully engrossed and unwilling to leave (a place)": {
+        "Chinese_Idiom": "流连忘返",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "享受某个地方或活动以至迎刃而解后忘记回家的时间"
+    },
+    "Each go their separate ways and pursue their respective goals": {
+        "Chinese_Idiom": "各奔前程",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "每个人各自朝着不同的方向去追求自己的前程"
+    },
+    "pale in comparison, be overshadowed by someone/something else": {
+        "Chinese_Idiom": "相形见绌",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "比较起来明显不如其他事物或人"
+    },
+    "showing off one's power and prestige": {
+        "Chinese_Idiom": "耀武扬威",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "以武力或威势来显示自己的强大或威严"
+    },
+    "a situation where the people are suffering and unable to make a living": {
+        "Chinese_Idiom": "民不聊生",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "The people cannot live in peace and stability."
+    },
+    "touching or moving to one's heart and soul": {
+        "Chinese_Idiom": "沁人肺腑",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "令人内心深受触动，引起共鸣的"
+    },
+    "feeling ashamed and inferior compared to others; feeling one's own shortcomings and not being as good as others": {
+        "Chinese_Idiom": "自愧不如",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "感到自己不如对方，自愧不如"
+    },
+    "seeing and hearing personally, being an eyewitness": {
+        "Chinese_Idiom": "耳闻目睹",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "亲眼看见或亲耳听到某事"
+    },
+    "being extremely vigilant and observant, paying attention to all directions and being cautious of potential threats or dangers": {
+        "Chinese_Idiom": "眼观六路",
+        "English_Idiom": "keep one's eyes peeled",
+        "Chinese_Meaning": "形容观察非常细致，警觉敏锐"
+    },
+    "to become extremely angry, to fly into a rage": {
+        "Chinese_Idiom": "大发雷霆",
+        "English_Idiom": "blow a fuse",
+        "Chinese_Meaning": "非常生气，发脾气"
+    },
+    "having an arrogant and self-conceited attitude without realizing one's own limitations": {
+        "Chinese_Idiom": "夜郎自大",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "自以为了不起而实际上并不了解或并不了解自己的局限性"
+    },
+    "wealth and glory, living a luxurious and honored life": {
+        "Chinese_Idiom": "富贵荣华",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指人生享有富贵和荣耀的境遇"
+    },
+    "being cynical or disrespectful towards the world and its conventions": {
+        "Chinese_Idiom": "玩世不恭",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "不认真对待生活和责任，漫不经心"
+    },
+    "colluding with foreign countries": {
+        "Chinese_Idiom": "里通外国",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "泄露国家机密给外国"
+    },
+    "become unfamiliar with people and places": {
+        "Chinese_Idiom": "人地生疏",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "人和地方都变得陌生"
+    },
+    "to rise up in resistance or rebellion": {
+        "Chinese_Idiom": "揭竿而起",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "指积极投身革命或起义行动"
+    },
+    "something that is expected to happen very soon, in a matter of days": {
+        "Chinese_Idiom": "指日可待",
+        "English_Idiom": "before one can say Jack Robinson",
+        "Chinese_Meaning": "即将发生，时间不久的意思"
+    },
+    "prolonged and time-consuming; lasting for a long time": {
+        "Chinese_Idiom": "旷日持久",
+        "English_Idiom": "at a stretch",
+        "Chinese_Meaning": "持续时间很长，时间拖得很久"
+    },
+    "joyful singing and dancing": {
+        "Chinese_Idiom": "莺歌燕舞",
+        "English_Idiom": NaN,
+        "Chinese_Meaning": "形容春天中鸟儿歌唱，燕子飞舞的美景。也比喻欢快热闹的景象。"
+    }
+}

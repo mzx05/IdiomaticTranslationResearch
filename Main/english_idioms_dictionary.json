@@ -1,0 +1,1931 @@
+{
+    "not very intelligent; lacking in intelligence": {
+        "english_idiom": "not the sharpest tool in the shed",
+        "chinese_idiom": "笨头笨脑",
+        "Chinese_Meaning": "不是最聪明的人；理解能力较差"
+    },
+    "to have a personal motive or selfish reason for doing or promoting something": {
+        "english_idiom": "axe to grind",
+        "chinese_idiom": "一己之私",
+        "Chinese_Meaning": "存有私心或动机"
+    },
+    "an energetic, lively, or dynamic person": {
+        "english_idiom": "live wire",
+        "chinese_idiom": "生动活泼",
+        "Chinese_Meaning": "活动不断的人；精力充沛的人"
+    },
+    "to not care at all; to have no interest or concern": {
+        "english_idiom": "not give a damn",
+        "chinese_idiom": "毫不在乎",
+        "Chinese_Meaning": "不在乎或不在意"
+    },
+    "to be in a romantic relationship with someone and have a commitment to each other, often characterized by exclusivity and stability": {
+        "english_idiom": "go steady",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "保持稳定的恋爱关系，不与其他人频繁约会"
+    },
+    "to remain calm and composed, especially in difficult situations": {
+        "english_idiom": "cool as cucumber",
+        "chinese_idiom": "从容不迫",
+        "Chinese_Meaning": "非常冷静"
+    },
+    "you cannot achieve something without causing some trouble or inconvenience": {
+        "english_idiom": "you can't make an omelette without breaking a few eggs",
+        "chinese_idiom": "不入虎穴，焉得虎子",
+        "Chinese_Meaning": "不经过一些牺牲或损失是不可能取得成功的"
+    },
+    "the future or ultimate outcome of a situation or decision, especially when considering its long-term effects": {
+        "english_idiom": "long run",
+        "chinese_idiom": "深思远虑",
+        "Chinese_Meaning": "长期来看，最终结果"
+    },
+    "to reach or achieve the same level or position as someone or something that was previously ahead; to meet with someone to get updated or to socialize": {
+        "english_idiom": "catch up",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "赶上进度；迎头赶上"
+    },
+    "Family bonds are stronger than other social relationships": {
+        "english_idiom": "blood is thicker than water",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "血浓于水"
+    },
+    "refers to a period of youth, often associated with inexperience and innocence": {
+        "english_idiom": "salad days",
+        "chinese_idiom": "乳臭未干",
+        "Chinese_Meaning": "年轻时光，青春岁月"
+    },
+    "a large or varied group of people or things; everyone and everything": {
+        "english_idiom": "uncle Tom Cobley and all",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "全家人、全部人"
+    },
+    "achieve success or reach a goal": {
+        "english_idiom": "made it",
+        "chinese_idiom": "功成名遂",
+        "Chinese_Meaning": "成功"
+    },
+    "to search or investigate every possible option or avenue": {
+        "english_idiom": "leave no stone unturned",
+        "chinese_idiom": "翻箱倒柜",
+        "Chinese_Meaning": "不遗余力地尽最大努力去调查或找出一件事的所有细节或解决办法"
+    },
+    "a situation in which the outcome is uncertain and equally likely": {
+        "english_idiom": "toss-up",
+        "chinese_idiom": "捉摸不定",
+        "Chinese_Meaning": "无法预测的结果或决定"
+    },
+    "extremely happy or delighted": {
+        "english_idiom": "over the moon",
+        "chinese_idiom": "欣喜若狂",
+        "Chinese_Meaning": "非常高兴或兴奋的状态"
+    },
+    "better things are still to come in the future": {
+        "english_idiom": "the best is yet to come",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "最好的还在后面"
+    },
+    "to make a bad situation worse by saying or doing something that is hurtful or offensive": {
+        "english_idiom": "add insult to injury",
+        "chinese_idiom": "雪上加霜",
+        "Chinese_Meaning": "火上加油，雪上加霜，用一种行为或对待使糟糕的情况更糟。"
+    },
+    "to spend meaningful and valuable time with someone": {
+        "english_idiom": "quality time",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "质量时间，即与家人或亲密朋友一起度过的有意义的时间"
+    },
+    "to provide an explanation or answer for something": {
+        "english_idiom": "account for",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "解释或说明某事的原因或原理"
+    },
+    "to become comfortable or familiar in a new situation or environment": {
+        "english_idiom": "find feet",
+        "chinese_idiom": "新来乍到",
+        "Chinese_Meaning": "逐渐适应或适应新环境或新工作"
+    },
+    "simultaneous occurrence of two negative or difficult situations or events": {
+        "english_idiom": "double whammy",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "双重打击或双重不幸"
+    },
+    "to be made to wait or be kept waiting": {
+        "english_idiom": "cool heels",
+        "chinese_idiom": "等因奉此",
+        "Chinese_Meaning": "耐心等待，通常是焦急或不耐烦地等待"
+    },
+    "crucial moment, a point in time where a significant change or shift occurs": {
+        "english_idiom": "turning point",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "转折点"
+    },
+    "do something now rather than later or not at all": {
+        "english_idiom": "there's no time like the present",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "抓住当下的时光是最好的"
+    },
+    "to remain silent or keep a secret": {
+        "english_idiom": "zip oneâ€™s lip",
+        "chinese_idiom": "缄口不言",
+        "Chinese_Meaning": "闭嘴"
+    },
+    "to work against a rapidly approaching deadline or limited time period; to attempt to complete a task or achieve a goal in a very short amount of time": {
+        "english_idiom": "race against time",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "与时间赛跑；争分夺秒"
+    },
+    "to propose marriage": {
+        "english_idiom": "pop the question",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "向某人求婚"
+    },
+    "to show approval or recognition for someone's achievements or efforts": {
+        "english_idiom": "pat on the back",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "表示赞赏或鼓励"
+    },
+    "excessive or unreasonable; more than one can handle or tolerate": {
+        "english_idiom": "a bit much",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "过分或太过"
+    },
+    "having extremely poor or no vision": {
+        "english_idiom": "blind as a bat",
+        "chinese_idiom": "目光如豆",
+        "Chinese_Meaning": "眼盲，指一个人非常近视或视力非常差"
+    },
+    "to think creatively or unconventionally": {
+        "english_idiom": "think outside the box",
+        "chinese_idiom": "别出心裁",
+        "Chinese_Meaning": "跳出固有的思维框架，形成创新的思考方式"
+    },
+    "something that is very common or easy to obtain": {
+        "english_idiom": "a dime a dozen",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "非常普遍或容易得到的；无价值或不重要的"
+    },
+    "someone who spends a lot of time sitting or lying down, typically watching television and being inactive": {
+        "english_idiom": "couch potato",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "宅男，特指整天躺在沙发上看电视或玩电子游戏的人"
+    },
+    "a place or situation where things, especially money or resources, seem to disappear without trace": {
+        "english_idiom": "black hole",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "黑洞"
+    },
+    "continuous or non-stop, without interruption or pause": {
+        "english_idiom": "round the clock",
+        "chinese_idiom": "马不停蹄",
+        "Chinese_Meaning": "连续不断地进行"
+    },
+    "to speak negatively or criticize someone or something": {
+        "english_idiom": "bad-mouth",
+        "chinese_idiom": "说长道短",
+        "Chinese_Meaning": "诋毁或贬低某人，尤其是在背后说坏话"
+    },
+    "an unpredictable or reckless person who can cause damage or harm": {
+        "english_idiom": "loose cannon",
+        "chinese_idiom": "小人得志",
+        "Chinese_Meaning": "不受约束的危险人物"
+    },
+    "to be angry, upset, or outraged about something": {
+        "english_idiom": "up in arms",
+        "chinese_idiom": "勃然大怒",
+        "Chinese_Meaning": "愤怒或激动到极点的状态"
+    },
+    "to remain neutral or undecided in a dispute or conflict": {
+        "english_idiom": "sit on the fence",
+        "chinese_idiom": "持平之论",
+        "Chinese_Meaning": "对问题或争议持中立或犹豫不决的态度"
+    },
+    "to wait patiently for the right moment or opportunity to take action": {
+        "english_idiom": "bide time",
+        "chinese_idiom": "以观后效",
+        "Chinese_Meaning": "等待时机或暂时忍耐"
+    },
+    "a special ability to sense or perceive something that is not immediately apparent or obvious": {
+        "english_idiom": "sixth sense",
+        "chinese_idiom": "第六感",
+        "Chinese_Meaning": "第六感"
+    },
+    "experiencing difficulties or problems; in a poor or unhealthy condition": {
+        "english_idiom": "in a bad way",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "处于困境或糟糕状态的"
+    },
+    "having no interest or concern; not caring at all": {
+        "english_idiom": "couldn't care less",
+        "chinese_idiom": "满不在乎",
+        "Chinese_Meaning": "毫不在乎"
+    },
+    "to be in the same situation or facing the same problems as someone else": {
+        "english_idiom": "be in the same boat",
+        "chinese_idiom": "同舟共济",
+        "Chinese_Meaning": "面临相同困境或问题"
+    },
+    "at the appropriate or necessary time or occasions": {
+        "english_idiom": "as and when",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "根据需要；随时随地"
+    },
+    "an enjoyable or productive time, often taking advantage of a particular situation or circumstance": {
+        "english_idiom": "field day",
+        "chinese_idiom": "苦中作乐",
+        "Chinese_Meaning": "乐趣或成功的一天"
+    },
+    "to annoy or irritate someone": {
+        "english_idiom": "get on nerves",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "使某人生气或恼火"
+    },
+    "to express extreme anger, rage, or excitement": {
+        "english_idiom": "foam at the mouth",
+        "chinese_idiom": "大发雷霆",
+        "Chinese_Meaning": "大发雷霆，十分愤怒或激动，常常用来形容盲目的愤怒或激情"
+    },
+    "being undecided or uncertain, in a state of limbo": {
+        "english_idiom": "betwixt and between",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "处于两个不同状态之间；犹豫不决；左右为难"
+    },
+    "to cause someone to become extremely irritated or frustrated": {
+        "english_idiom": "drive crazy",
+        "chinese_idiom": "气急败坏",
+        "Chinese_Meaning": "使人发疯"
+    },
+    "a practical principle or guideline based on experience or common sense, rather than strict rules or scientific measurements": {
+        "english_idiom": "rule of thumb",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "经验法则、经验守则，指一种基于实践或经验的快速决策或评估方法"
+    },
+    "to retract or take back something that one has said": {
+        "english_idiom": "eat words",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "收回先前说过的话，通常是因为它们被证明是错误的或不准确的"
+    },
+    "written work or composition, such as an essay or article": {
+        "english_idiom": "piece of writing",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "一篇文章"
+    },
+    "to have enough money to cover basic expenses; to make a living or get by financially": {
+        "english_idiom": "make ends meet",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "设法维持收支平衡；勉强维持生计"
+    },
+    "something that is very easy or simple": {
+        "english_idiom": "child's play",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "非常容易的事情"
+    },
+    "acknowledge and give credit to someone, even if they are disliked or considered to be a bad person": {
+        "english_idiom": "give the devil his due",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "公平地承认或赞赏恶人的优点或成就"
+    },
+    "to make a mistake or failure; to mess up or ruin something": {
+        "english_idiom": "screw up",
+        "chinese_idiom": "铸成大错",
+        "Chinese_Meaning": "搞砸，弄糟"
+    },
+    "to chat or have a casual conversation": {
+        "english_idiom": "chew the fat",
+        "chinese_idiom": "谈天说地",
+        "Chinese_Meaning": "闲聊、聊天、消遣"
+    },
+    "it is difficult to teach or change someone's habits or behaviors, especially if they are set in their ways or resistant to change": {
+        "english_idiom": "you can't teach an old dog new tricks",
+        "chinese_idiom": "本性难移",
+        "Chinese_Meaning": "经验丰富的人很难改变或学习新的事物"
+    },
+    "to do something immediately or without hesitation": {
+        "english_idiom": "at the drop of a dime",
+        "chinese_idiom": "在所不辞",
+        "Chinese_Meaning": "毫不犹豫迅速行动"
+    },
+    "to start working or moving quickly": {
+        "english_idiom": "get cracking",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "迅速开始或加快进度"
+    },
+    "to deceive or mislead someone": {
+        "english_idiom": "pull the wool over eyes",
+        "chinese_idiom": "掩人耳目",
+        "Chinese_Meaning": "欺骗或愚弄某人"
+    },
+    "a dog, as dogs are often considered to be loyal and trustworthy companions to humans": {
+        "english_idiom": "man's best friend",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "人类最好的朋友"
+    },
+    "the earliest moments of the day; dawn or sunrise": {
+        "english_idiom": "first light",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "黎明时刻或日出前的时间"
+    },
+    "to encompass or cover everything; from beginning to end": {
+        "english_idiom": "from A to Z",
+        "chinese_idiom": "包罗万象",
+        "Chinese_Meaning": "从头到尾地、完整地"
+    },
+    "to suffer negative consequences or get hurt by one's own actions or decisions": {
+        "english_idiom": "burn fingers",
+        "chinese_idiom": "自取其咎",
+        "Chinese_Meaning": "意外或失败的经验使某人非常了解某个行为或决策的风险或危险"
+    },
+    "someone who is independent, spontaneous, and not confined by societal norms or expectations": {
+        "english_idiom": "free spirit",
+        "chinese_idiom": "不羁之才",
+        "Chinese_Meaning": "不受拘束的精神，自由奔放的人"
+    },
+    "those who are brave and take risks are more likely to succeed.": {
+        "english_idiom": "fortune favours the bold",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "运气常常眷顾勇敢者"
+    },
+    "the existing state or condition, especially in social or political aspects, that is generally accepted or maintained": {
+        "english_idiom": "status quo",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "现状; 现况"
+    },
+    "someone who is seen as the disgrace or outcast of a group or family": {
+        "english_idiom": "black sheep",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "败家子或败类"
+    },
+    "to reconcile or resolve a disagreement or conflict": {
+        "english_idiom": "kiss and make up",
+        "chinese_idiom": "言归于好",
+        "Chinese_Meaning": "和解并重归于好"
+    },
+    "not for publication or public knowledge; unofficial or confidential": {
+        "english_idiom": "off the record",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "不被公开，不列入正式记录"
+    },
+    "to get married": {
+        "english_idiom": "tie the knot",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "结婚"
+    },
+    "energetic, lively, or enthusiastic": {
+        "english_idiom": "full of beans",
+        "chinese_idiom": "活蹦乱跳",
+        "Chinese_Meaning": "充满活力和精力"
+    },
+    "to reduce in size, quantity, or intensity": {
+        "english_idiom": "cut down",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "减少数量或程度"
+    },
+    "a difficult or chaotic situation": {
+        "english_idiom": "troubled waters",
+        "chinese_idiom": "惊涛骇浪",
+        "Chinese_Meaning": "动荡不安的情况或境况"
+    },
+    "Children often resemble their parents in appearance, behavior, or character.": {
+        "english_idiom": "like father like son",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "有父则有子"
+    },
+    "a complicated, difficult, or contentious situation or problem that is more troublesome than it appears initially": {
+        "english_idiom": "can of worms",
+        "chinese_idiom": "千头万绪",
+        "Chinese_Meaning": "一桶不可控制的麻烦或问题"
+    },
+    "to behave uncontrollably and with wild, unrestrained behavior": {
+        "english_idiom": "run amok (amuck)",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "疯狂行动，失去自我控制，造成混乱"
+    },
+    "to be daydreaming or not paying attention to reality": {
+        "english_idiom": "head in the clouds",
+        "chinese_idiom": "白日作梦",
+        "Chinese_Meaning": "心不在焉、幻想、不现实"
+    },
+    "continuing throughout the entire year, without interruption or seasonal changes": {
+        "english_idiom": "year-round",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "全年都有效、持续存在、进行或发生的事情"
+    },
+    "to be cautious or careful; to look after or protect someone or something": {
+        "english_idiom": "take care",
+        "chinese_idiom": "小心谨慎",
+        "Chinese_Meaning": "照顾好自己；保重"
+    },
+    "comparing two things that are completely different and cannot be compared": {
+        "english_idiom": "apples to oranges",
+        "chinese_idiom": "相提而论",
+        "Chinese_Meaning": "不可比较的事物"
+    },
+    "to remain calm or composed": {
+        "english_idiom": "keep your hair on",
+        "chinese_idiom": "平心静气",
+        "Chinese_Meaning": "保持冷静，不要激动或失去控制"
+    },
+    "completed or finished": {
+        "english_idiom": "in the can",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "已经完成或已经确定"
+    },
+    "having communication or contact with someone or being up to date with current information or trends": {
+        "english_idiom": "in touch",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "和...保持联系或交流"
+    },
+    "to disregard or dismiss; to not pay attention or give importance to something": {
+        "english_idiom": "never mind",
+        "chinese_idiom": "置之不理",
+        "Chinese_Meaning": "不要紧/没关系"
+    },
+    "to openly reveal or acknowledge one's true beliefs, identity, or preferences, especially in regards to sexual orientation": {
+        "english_idiom": "out of the closet",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "公开承认或表达某个隐藏或秘密的事实或身份"
+    },
+    "to be logical or reasonable; to be expected or obvious": {
+        "english_idiom": "stands to reason",
+        "chinese_idiom": "言之成理",
+        "Chinese_Meaning": "是理所当然的，毫无疑问的，符合常理的"
+    },
+    "to persistently dwell on or discuss a particular subject, often in a critical or complaining manner": {
+        "english_idiom": "harp on",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "反复提及或强调某件事情，尤其是让人讨厌的或重复的事情"
+    },
+    "to be in a difficult or desperate situation with no easy way out": {
+        "english_idiom": "back to the wall",
+        "chinese_idiom": "置之死地",
+        "Chinese_Meaning": "陷入困境、危机或逆境, 背水一战"
+    },
+    "To endure or cope with hot weather or a difficult situation": {
+        "english_idiom": "beat the heat",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "躲避酷热天气，采取适当的措施来保持凉爽，通常指在炎热的天气中找到解决办法或逃离炎热的环境"
+    },
+    "to happen or develop in a particular way; to result in a certain outcome": {
+        "english_idiom": "turn out",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "最终结果"
+    },
+    "variations in fortune or circumstance, particularly involving both successes and failures": {
+        "english_idiom": "ups and downs",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "高低起伏；盛衰；沉浮"
+    },
+    "an extremely long time ago, often referring to the distant past": {
+        "english_idiom": "year dot",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "起源或开始的时刻"
+    },
+    "a feeling of having already experienced the present situation": {
+        "english_idiom": "deja vu",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "似曾相识的经历或感受"
+    },
+    "a competitive and demanding world or situation in which people are constantly striving to get ahead": {
+        "english_idiom": "rat race",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "竞争激烈的工作环境"
+    },
+    "experiencing a period of great success or happiness": {
+        "english_idiom": "on the crest of a wave",
+        "chinese_idiom": "盛极一时",
+        "Chinese_Meaning": "处于事业或成功的巅峰状态"
+    },
+    "as a precaution or in anticipation of a future event or circumstance": {
+        "english_idiom": "just in case",
+        "chinese_idiom": "以防万一",
+        "Chinese_Meaning": "以防万一；如果发生某事"
+    },
+    "the largest or greatest portion or part of something": {
+        "english_idiom": "lion's share",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "最大份额、最多的部分"
+    },
+    "to give a false alarm or exaggerate a situation, making it difficult for others to believe you in the future": {
+        "english_idiom": "cry wolf",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "喊狼来了；夸大其词"
+    },
+    "Extreme or difficult situations require extreme or drastic actions or solutions": {
+        "english_idiom": "drastic times call for drastic measures",
+        "chinese_idiom": "逼上梁山",
+        "Chinese_Meaning": "在危急时刻需要采取激烈措施"
+    },
+    "to deeply irritate or bother someone": {
+        "english_idiom": "get under skin",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "使人烦恼或愤怒"
+    },
+    "an inspirational or motivational speech or conversation aimed at boosting someone's morale or confidence": {
+        "english_idiom": "pep talk",
+        "chinese_idiom": "振奋人心",
+        "Chinese_Meaning": "鼓舞士气的讲话"
+    },
+    "to finally understand something; to gain insight or realization": {
+        "english_idiom": "see the light",
+        "chinese_idiom": "顿开茅塞",
+        "Chinese_Meaning": "看到事情的真相或明白事情的重要性"
+    },
+    "to suffer a significant loss or defeat; to endure a harsh criticism or punishment": {
+        "english_idiom": "take a beating",
+        "chinese_idiom": "伐性之斧",
+        "Chinese_Meaning": "受到重击或失败；受到惩罚"
+    },
+    "an intense and heated argument or fight": {
+        "english_idiom": "blazing row",
+        "chinese_idiom": "唇枪舌剑",
+        "Chinese_Meaning": "激烈的争论或争吵"
+    },
+    "to criticize, scold, or confront someone with great intensity or aggression": {
+        "english_idiom": "give hell",
+        "chinese_idiom": "针锋相对",
+        "Chinese_Meaning": "痛斥某人；严厉批评或责骂某人"
+    },
+    "There is no widely recognized English idiom \"a trip to the sun.\"": {
+        "english_idiom": "a trip to the sun",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "努力追求一个永远不会实现的目标或愿望"
+    },
+    "directly or precisely in the middle or center of something": {
+        "english_idiom": "smack dab",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "恰好、正中目标"
+    },
+    "to irritate or annoy someone": {
+        "english_idiom": "rub the wrong way",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "使某人不悦或触怒；激怒某人"
+    },
+    "repeatedly or consistently; happening over and over again": {
+        "english_idiom": "time after time",
+        "chinese_idiom": "屡次三番",
+        "Chinese_Meaning": "一次又一次地，再三地"
+    },
+    "someone who has achieved success, wealth, or prominence on their own, without any help or support from others": {
+        "english_idiom": "self-made man",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "自力更生的人"
+    },
+    "a place or service that provides all the necessary items or services in one location or from one source": {
+        "english_idiom": "one stop shop",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "一个地方提供所需的所有服务或产品"
+    },
+    "new members or fresh ideas that bring new energy or vitality to a group or organization": {
+        "english_idiom": "new blood",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "新鲜血液；新成员；新势力"
+    },
+    "to finish or conclude something, often unexpectedly or in a way that was not planned": {
+        "english_idiom": "wind up",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "最终处于某种状态或境地，通常是出乎意料的"
+    },
+    "an indication or acknowledgment of acceptance, endorsement, or approval": {
+        "english_idiom": "seal of approval",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "批准或认可的标志或证明"
+    },
+    "hypocritical reproach; accusing someone of a fault or action that one is guilty of themselves": {
+        "english_idiom": "pot calling the kettle black",
+        "chinese_idiom": "引咎自责",
+        "Chinese_Meaning": "自己也有同样缺点还指责别人缺点"
+    },
+    "To do a favor for someone in the hopes of receiving a favor in return": {
+        "english_idiom": "scratch back",
+        "chinese_idiom": "投桃报李",
+        "Chinese_Meaning": "互相帮助或互惠互利"
+    },
+    "Everyone is connected to others and cannot thrive or survive in isolation.": {
+        "english_idiom": "no man is an island",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "没有人是孤岛"
+    },
+    "widely believed or accepted to be true; highly probable or certain": {
+        "english_idiom": "must have",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "必須要有；肯定有；应当有"
+    },
+    "exactly at a specified time; punctual": {
+        "english_idiom": "on the dot",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "准时；恰好在预定的时间"
+    },
+    "rising or becoming more powerful or influential": {
+        "english_idiom": "in the ascendant",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "处于上升势头"
+    },
+    "to be extremely cold or frightened": {
+        "english_idiom": "chill to the marrow",
+        "chinese_idiom": "不寒而栗",
+        "Chinese_Meaning": "使人非常恐惧或寒冷到骨子里"
+    },
+    "to betray or deceive someone, especially in a sneaky or underhanded way": {
+        "english_idiom": "stab in the back",
+        "chinese_idiom": "吃里爬外",
+        "Chinese_Meaning": "背后刺一刀"
+    },
+    "to have a mutual dislike or animosity towards each other": {
+        "english_idiom": "no love lost",
+        "chinese_idiom": "切齿痛恨",
+        "Chinese_Meaning": "互不关心的关系"
+    },
+    "far superior; much better than": {
+        "english_idiom": "head and shoulders above",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "比其他人或事物更出色或更优秀"
+    },
+    "a significant and often sudden advancement or improvement": {
+        "english_idiom": "quantum leap",
+        "chinese_idiom": "翻然改进",
+        "Chinese_Meaning": "巨大的飞跃或进步"
+    },
+    "to be glad when someone or something leaves or departs": {
+        "english_idiom": "to see the back of",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "摆脱或者远离某人或某物"
+    },
+    "to be successful, triumphant, or in a position of power or advantage": {
+        "english_idiom": "ride high",
+        "chinese_idiom": "春风得意",
+        "Chinese_Meaning": "非常成功或幸运"
+    },
+    "to be lenient or forgiving, to give someone a break or relax expectations": {
+        "english_idiom": "cut some slack",
+        "chinese_idiom": "宽大为怀",
+        "Chinese_Meaning": "对某人宽容些或给予某人机会在某个任务或情况下减轻要求或期望"
+    },
+    "under suspicion or in disfavor; in a state of disgrace or disrepute": {
+        "english_idiom": "under a cloud",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "处于怀疑、不信任或不受欢迎的状态"
+    },
+    "to lose energy, motivation, or momentum; to tire or exhaust": {
+        "english_idiom": "run out of steam",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "失去动力或能量，力不从心"
+    },
+    "refers to a situation or topic that is not clearly defined or is ambiguous": {
+        "english_idiom": "shades of grey",
+        "chinese_idiom": "暧昧不明",
+        "Chinese_Meaning": "\"灰色的阴影\" (表示事物或情况有若干不确定或模糊的方面)"
+    },
+    "to organize oneself, get organized, or get one's affairs in order; to start behaving or performing better; to make improvements or show progress": {
+        "english_idiom": "get act together",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "整顿思路或行动，开始有条不紊地处理事物"
+    },
+    "to manage to stay out of debt or other trouble, especially in difficult financial or personal circumstances": {
+        "english_idiom": "head above water",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "勉力维持生计；艰难度日；身不由己地维持工作或生活的基本需求"
+    },
+    "NaN": {
+        "english_idiom": "on the tip of one’s tongue",
+        "chinese_idiom": NaN
+    },
+    "a person's main source of income or livelihood": {
+        "english_idiom": "bread and butter",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "某人的主要收入来源"
+    },
+    "an old age; the later years of a person's life": {
+        "english_idiom": "vale of years",
+        "chinese_idiom": "古稀之年",
+        "Chinese_Meaning": "生命的晚年阶段；年迈的岁月；暮年"
+    },
+    "to be poorly received or unsuccessful, typically due to being unpopular or uninteresting": {
+        "english_idiom": "go down like a lead balloon",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "没有引起兴趣或者没有成功"
+    },
+    "to happen or occur": {
+        "english_idiom": "come to pass",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "变成现实；发生"
+    },
+    "someone who helps others, especially strangers, without expecting anything in return": {
+        "english_idiom": "good Samaritan",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "\"乐于助人的人\"(指那些自愿提供帮助他人的人)"
+    },
+    "an advantage or lead in a competition or situation; a head start allows one to begin before others and therefore have a better chance of success": {
+        "english_idiom": "head start",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "比其他人更早开始或获得优势"
+    },
+    "to get rid of something valuable or important while trying to eliminate something undesirable": {
+        "english_idiom": "throw the baby out with the bathwater",
+        "chinese_idiom": "黄钟毁弃",
+        "Chinese_Meaning": "过度舍弃，抛弃中间或有价值的东西，只保留不值得或无用的东西"
+    },
+    "in a state of difficulty or trouble; experiencing problems or challenges": {
+        "english_idiom": "on the rocks",
+        "chinese_idiom": "内外交困",
+        "Chinese_Meaning": "岌岌可危的，失败的，不稳定的"
+    },
+    "to be constantly moving or shifting from one place or situation to another without making any progress": {
+        "english_idiom": "from pillar to post",
+        "chinese_idiom": "颠来倒去",
+        "Chinese_Meaning": "四处奔波，来回奔波"
+    },
+    "to reach a crisis point or to reach a point where a situation becomes very serious and intense": {
+        "english_idiom": "come to a head",
+        "chinese_idiom": "千钧一发",
+        "Chinese_Meaning": "事情达到高潮或紧要关头"
+    },
+    "a trendy or popular term or phrase that is used frequently, especially in a particular field or industry": {
+        "english_idiom": "buzz word",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "一时的热词或时髦词汇"
+    },
+    "ahead of current trends or styles; innovative or experimental": {
+        "english_idiom": "avant-garde",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "前卫的或前沿的，尤指在艺术、文化或思想领域中探索新颖、创新或非传统的"
+    },
+    "to happen or come after something else": {
+        "english_idiom": "follow by",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "跟随的结果或事件"
+    },
+    "guaranteed or certain to happen; secured": {
+        "english_idiom": "in the bag",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "已经确定或取得成功的事情"
+    },
+    "to keep quiet or stop talking": {
+        "english_idiom": "button your lip",
+        "chinese_idiom": "噤若寒蝉",
+        "Chinese_Meaning": "闭嘴; 守口如瓶"
+    },
+    "to overturn or capsize, especially in reference to a vehicle or vessel": {
+        "english_idiom": "turn turtle",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "翻车或翻船，即倒下或崩溃"
+    },
+    "very quickly or suddenly": {
+        "english_idiom": "in a trice",
+        "chinese_idiom": "迅雷不及掩耳",
+        "Chinese_Meaning": "立刻，瞬间"
+    },
+    "to be in a state of anxious anticipation, holding one's breath in excitement or suspense": {
+        "english_idiom": "bated breath",
+        "chinese_idiom": "一则以喜，一则以惧",
+        "Chinese_Meaning": "屏息以待，焦急地等待某事发生"
+    },
+    "wasted or lost; irrecoverable or pointless expenditure or effort": {
+        "english_idiom": "down the drain",
+        "chinese_idiom": "大手大脚",
+        "Chinese_Meaning": "付诸东流，白费，白白浪费掉"
+    },
+    "lose consciousness or memory": {
+        "english_idiom": "black out",
+        "chinese_idiom": "人事不省",
+        "Chinese_Meaning": "失去意识；昏厥"
+    },
+    "two options that are essentially the same; no real difference between two choices": {
+        "english_idiom": "six of one, half a dozen of the other",
+        "chinese_idiom": "别无二致",
+        "Chinese_Meaning": "六个半打花有时勿昧"
+    },
+    "Fake or insincere expressions of affection or love, usually motivated by the desire to gain something": {
+        "english_idiom": "cupboard love",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "虚情假意，只对别人表达情感以获取利益的做法"
+    },
+    "to assume control or responsibility for something or someone; to dominate or overpower someone or something": {
+        "english_idiom": "take over",
+        "chinese_idiom": "以力服人",
+        "Chinese_Meaning": "接管或控制某事物；接手"
+    },
+    "To resolve or clarify a tense or confusing situation; to address and eliminate any misunderstandings or conflicts": {
+        "english_idiom": "clear the air",
+        "chinese_idiom": "冰消雪释",
+        "Chinese_Meaning": "消除误会或紧张气氛"
+    },
+    "to lose favor or position of power and respect due to a moral or ethical failure": {
+        "english_idiom": "fall from grace",
+        "chinese_idiom": "晚节不保",
+        "Chinese_Meaning": "掉出恩宠；从成功地位或受人尊敬的地位下降"
+    },
+    "to discourage or dampen enthusiasm for something": {
+        "english_idiom": "pour cold water on",
+        "chinese_idiom": "意兴索然",
+        "Chinese_Meaning": "消极或负面地评论或阻碍某人或某物"
+    },
+    "to confess or admit the truth, typically after a period of dishonesty or deception": {
+        "english_idiom": "come clean",
+        "chinese_idiom": "坦白从宽",
+        "Chinese_Meaning": "坦白承认错误或隐瞒的事情"
+    },
+    "expressing or showing exaggerated affection or sentimentality": {
+        "english_idiom": "lovey-dovey",
+        "chinese_idiom": "温情脉脉",
+        "Chinese_Meaning": "过于甜蜜或亲密，以至于令人作呕"
+    },
+    "to stop or discontinue something, especially suddenly or abruptly": {
+        "english_idiom": "pull the plug",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "中止或取消某事物"
+    },
+    "to mind your own business; to not interfere in other people's affairs": {
+        "english_idiom": "mind your own beeswax",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "管好自己的事情；別插手别人的事情"
+    },
+    "to become overwhelmed with emotion or panic, and lose control of one's thoughts or actions": {
+        "english_idiom": "lose head",
+        "chinese_idiom": "仓皇失措",
+        "Chinese_Meaning": "失去理智"
+    },
+    "to seek protection or shelter in anticipation of danger or trouble": {
+        "english_idiom": "run for cover",
+        "chinese_idiom": "跑求庇护",
+        "Chinese_Meaning": "迅速寻找保护，逃避危险或困难的行动"
+    },
+    "to indicate refusal or rejection, often in response to a proposition or request": {
+        "english_idiom": "no dice",
+        "chinese_idiom": "闭门羹",
+        "Chinese_Meaning": "不行，没有希望，无法达成目标"
+    },
+    "to be very eager or enthusiastic about something": {
+        "english_idiom": "keen as mustard",
+        "chinese_idiom": "如饥如渴",
+        "Chinese_Meaning": "非常热衷、积极、有意愿"
+    },
+    "to be deceived, tricked, or fooled by someone or something; to become infatuated or enamored with someone or something": {
+        "english_idiom": "fall for",
+        "chinese_idiom": "坠入情网",
+        "Chinese_Meaning": "被欺骗或受骗"
+    },
+    "to pursue a mistaken or misguided course of action or to blame the wrong person or thing": {
+        "english_idiom": "bark up the wrong tree",
+        "chinese_idiom": "嫁祸于人",
+        "Chinese_Meaning": "对一个问题、情况或人的判断完全错误"
+    },
+    "to surrender or stop trying; to abandon or renounce an activity or pursuit": {
+        "english_idiom": "give up",
+        "chinese_idiom": "打退堂鼓",
+        "Chinese_Meaning": "放弃；不再尝试"
+    },
+    "prioritizing or addressing the most important or essential matters before anything else": {
+        "english_idiom": "first things first",
+        "chinese_idiom": "缓急轻重",
+        "Chinese_Meaning": "按照重要性顺序，先做最重要的事情"
+    },
+    "to be exactly right or accurate": {
+        "english_idiom": "bang on",
+        "chinese_idiom": "毫厘不爽",
+        "Chinese_Meaning": "准确无误"
+    },
+    "complete freedom or authority to act as one wishes": {
+        "english_idiom": "carte blanche",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "无限自由、完全授权"
+    },
+    "to have a grudge or a sense of resentment": {
+        "english_idiom": "chip on shoulder",
+        "chinese_idiom": "怀恨在心",
+        "Chinese_Meaning": "对待或与他人交往时持有敌意、情绪激动或怨恨"
+    },
+    "to become exhausted or tired, usually as a result of physical or mental exertion": {
+        "english_idiom": "wear out",
+        "chinese_idiom": "筋疲力尽",
+        "Chinese_Meaning": "使用过多而造成物品损坏或不能使用的状态"
+    },
+    "after two unsuccessful attempts, the third will be successful": {
+        "english_idiom": "third time's a charm",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "第三次会成功；第三次才会幸运"
+    },
+    "Nothing is truly free; everything comes with a cost or strings attached.": {
+        "english_idiom": "there's no such thing as a free lunch",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "没有免费的午餐"
+    },
+    "completely; deeply; to the very essence or center of something": {
+        "english_idiom": "to the core",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "非常彻底，完全地"
+    },
+    "to be amazed or in awe of something": {
+        "english_idiom": "take breath away",
+        "chinese_idiom": "叹为观止",
+        "Chinese_Meaning": "让某人感到非常惊讶或惊叹"
+    },
+    "to buy or accept something without knowing its true nature or value": {
+        "english_idiom": "pig in a poke",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "以与实际情况不符的方式出售或购买商品，即没有检查也没有了解就购买商品"
+    },
+    "someone who takes a position for the sake of argument, without necessarily believing in or supporting that position": {
+        "english_idiom": "devil's advocate",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "替某人提出异议或逆向的观点以刺激讨论，或者以挑战主题的立场来辩护的人"
+    },
+    "to be put aside or delayed, often in favor of more urgent or important matters": {
+        "english_idiom": "on the back burner",
+        "chinese_idiom": "轻重缓急",
+        "Chinese_Meaning": "被搁置或暂时搁置"
+    },
+    "closest living relative": {
+        "english_idiom": "next of kin",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "至亲"
+    },
+    "a subject or issue that causes disagreement or conflict": {
+        "english_idiom": "bone of contention",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "争议的根源或争议的焦点"
+    },
+    "exclamation used to express surprise, frustration, or disbelief": {
+        "english_idiom": "good grief",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "好哀叹；好惊讶或好恼怒"
+    },
+    "taking a risky or dangerous course of action; pushing the limits or boundaries": {
+        "english_idiom": "skating on thin ice",
+        "chinese_idiom": "不敢越雷池一步",
+        "Chinese_Meaning": "冒险，进行一项危险或不确定的行动"
+    },
+    "a sudden and complete change in opinion, behavior, or attitude": {
+        "english_idiom": "volte face",
+        "chinese_idiom": "风云突变",
+        "Chinese_Meaning": "意外的转变或反转，特别是在立场、观点或决策上"
+    },
+    "to eliminate corruption or inefficiency, usually in a political context": {
+        "english_idiom": "drain the swamp",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "清除腐败或不良现象，彻底解决问题"
+    },
+    "to cancel or break off a planned wedding or commitment at the last minute": {
+        "english_idiom": "leave at the altar",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "在婚礼当天抛弃伴侣；突然取消婚礼"
+    },
+    "to take a short nap or quick sleep": {
+        "english_idiom": "forty winks",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "短暂的小睡"
+    },
+    "to accept or endure adversity or criticism without complaint or becoming discouraged": {
+        "english_idiom": "take it on the chin",
+        "chinese_idiom": "逆来顺受",
+        "Chinese_Meaning": "勇敢地接受困难或失败，没有抱怨或退缩"
+    },
+    "the ability to find things funny; the capacity to appreciate humor": {
+        "english_idiom": "sense of humour",
+        "chinese_idiom": "饶有风趣",
+        "Chinese_Meaning": "幽默感"
+    },
+    "doing something intentionally but making it seem like an accident": {
+        "english_idiom": "accidentally on purpose",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "故意为之，虽然表面上看起来是意外的"
+    },
+    "existing in reality or in fact, though not officially established or legally recognized": {
+        "english_idiom": "de facto",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "实际上的；事实上的"
+    },
+    "starting from this point in time; from this moment forward": {
+        "english_idiom": "from now on",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "从现在开始"
+    },
+    "to postpone a decision or action, especially in a way that shifts the responsibility to someone else or to the future": {
+        "english_idiom": "kick the can down the road",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "将问题推迟到将来解决，而不是立即解决"
+    },
+    "having many tasks or responsibilities to deal with": {
+        "english_idiom": "a lot on my plate",
+        "chinese_idiom": "日理万机",
+        "Chinese_Meaning": "任务繁重，忙得不可开交"
+    },
+    "to wake up and start the day energetically": {
+        "english_idiom": "rise and shine",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "起床，醒来并且精神焕发"
+    },
+    "vigorous and successful business activity": {
+        "english_idiom": "roaring trade",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "畅销货"
+    },
+    "consecutively or continuously; without interruption or break": {
+        "english_idiom": "in a row",
+        "chinese_idiom": "接连不断",
+        "Chinese_Meaning": "连续地发生或存在的"
+    },
+    "to describe the intense but shallow romantic feelings that often occur between young people": {
+        "english_idiom": "puppy love",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "青春期的初恋，通常是不成熟且短暂的恋爱"
+    },
+    "to eat a large amount of food": {
+        "english_idiom": "eat like a horse",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "吃得很多，通常是指有很大的食量"
+    },
+    "to openly and visibly display one's emotions or feelings": {
+        "english_idiom": "wear heart on sleeve",
+        "chinese_idiom": "直抒胸臆",
+        "Chinese_Meaning": "表达情感或感受时毫不掩饰或隐藏自己的情感"
+    },
+    "to go out of business or to fail": {
+        "english_idiom": "belly up",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "失败；破产"
+    },
+    "to visit someone briefly and without making an appointment": {
+        "english_idiom": "drop by",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "无预约地访问或参观某人"
+    },
+    "to lose contact or communication with someone over time": {
+        "english_idiom": "lose touch",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "失去联系或接触；与某人或某事的沟通中断"
+    },
+    "to ignore or pretend not to see something": {
+        "english_idiom": "turn a blind eye",
+        "chinese_idiom": "视若无睹",
+        "Chinese_Meaning": "睁一只眼闭一只眼"
+    },
+    "to remain optimistic while being cautious and prepared for any possible negative outcome": {
+        "english_idiom": "hope for the best, but prepare for the worst",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "希望最好的情况发生，但做最坏的打算。"
+    },
+    "to move a scheduled event or meeting to an earlier date or time": {
+        "english_idiom": "brought forward",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "提前提出或呈现"
+    },
+    "an unexpected positive aspect or outcome within a negative or difficult situation": {
+        "english_idiom": "silver lining",
+        "chinese_idiom": "美中不足",
+        "Chinese_Meaning": "困境中的一点希望或好处"
+    },
+    "lacking compassion or empathy; unfeeling or indifferent": {
+        "english_idiom": "cold hearted",
+        "chinese_idiom": "麻木不仁",
+        "Chinese_Meaning": "冷酷无情的；没有同情心的"
+    },
+    "extremely popular or fashionable": {
+        "english_idiom": "all the rage",
+        "chinese_idiom": "洛阳纸贵",
+        "Chinese_Meaning": "非常流行；风靡一时"
+    },
+    "Completely settled or decided; lacking any flexibility or room for discussion or change": {
+        "english_idiom": "cut and dried",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "事先安排好的；事先商定好的"
+    },
+    "to be of great benefit or advantage to someone in the future": {
+        "english_idiom": "stand in a good stead",
+        "chinese_idiom": "大有裨益",
+        "Chinese_Meaning": "对某人非常有好处，特别是在将来的时候"
+    },
+    "actively investigating or working on a situation or problem": {
+        "english_idiom": "on the case",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "全力以赴、专心致志、尽职尽责"
+    },
+    "the best or most effective course of action moving forward": {
+        "english_idiom": "way forward",
+        "chinese_idiom": "一步一趋",
+        "Chinese_Meaning": "前进的方向；解决问题的途径"
+    },
+    "a small, noticeable part or aspect of a larger, more complex issue or problem": {
+        "english_idiom": "tip of the iceberg",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "冰山一角"
+    },
+    "to continue, proceed, or persist with an activity or task": {
+        "english_idiom": "carry on",
+        "chinese_idiom": "持之以恒",
+        "Chinese_Meaning": "继续进行某个活动或行为"
+    },
+    "a person who always agrees with and obeys someone in order to please them, often to the point of insincerity": {
+        "english_idiom": "yes man",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "唯唯诺诺的人"
+    },
+    "someone who has been hurt or had a bad experience is extra cautious to avoid similar situations in the future": {
+        "english_idiom": "a burnt child dreads the fire",
+        "chinese_idiom": "一朝被蛇咬，十年怕井绳",
+        "Chinese_Meaning": "一朝被蛇咬，十年怕草绳"
+    },
+    "of higher quality or better than average": {
+        "english_idiom": "a cut above",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "比其他人优秀或高出一筹"
+    },
+    "small or insignificant amounts, often given or received intermittently": {
+        "english_idiom": "dribs and drabs",
+        "chinese_idiom": "一星半点",
+        "Chinese_Meaning": "少量或零零星星的东西"
+    },
+    "to adapt to a situation or circumstance without resistance or effort": {
+        "english_idiom": "go with the flow",
+        "chinese_idiom": "随机应变",
+        "Chinese_Meaning": "随遇而安，顺其自然"
+    },
+    "a deep, hearty laugh": {
+        "english_idiom": "belly laugh",
+        "chinese_idiom": "哄堂大笑",
+        "Chinese_Meaning": "哈哈大笑"
+    },
+    "in a difficult or dangerous situation; in trouble or facing serious consequences": {
+        "english_idiom": "in deep water",
+        "chinese_idiom": "水深火热",
+        "Chinese_Meaning": "陷入困境或麻烦中"
+    },
+    "an expression used to indicate absolute certainty or confidence in a prediction or outcome, often used when comparing two unequal things": {
+        "english_idiom": "dollars to donuts",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "几乎可以肯定地"
+    },
+    "naked or without clothing": {
+        "english_idiom": "in the buff",
+        "chinese_idiom": "一丝不挂",
+        "Chinese_Meaning": "裸体的或脱光衣服的"
+    },
+    "deeply lost in thought or daydreaming; not mentally present or paying attention": {
+        "english_idiom": "miles away",
+        "chinese_idiom": "神思恍惚",
+        "Chinese_Meaning": "心不在焉，全神贯注于其他事物"
+    },
+    "to be confirmed, finalized, or made official, especially in a romantic or intimate context": {
+        "english_idiom": "sealed with a kiss",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "以一个吻来确认或完成某事"
+    },
+    "to misunderstand or misinterpret something": {
+        "english_idiom": "get the wrong end of the stick",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "误解某件事或理解错误"
+    },
+    "being heavily armed or well-equipped, often to an excessive or extreme degree": {
+        "english_idiom": "armed to the teeth",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "全副武装"
+    },
+    "You can't bring your possessions or wealth with you when you die, so it's not worth obsessing over material things.": {
+        "english_idiom": "you can't take it with you",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "身外之物，不能带走"
+    },
+    "Do not risk everything on a single plan or opportunity, as if it fails, you will lose everything.": {
+        "english_idiom": "don't put all your eggs in one basket",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "不要孤注一掷；不要把所有的希望都寄托在同一个事物上"
+    },
+    "a very short distance; a close proximity": {
+        "english_idiom": "stone's throw",
+        "chinese_idiom": "鞭长不及",
+        "Chinese_Meaning": "距离很近，非常近的距离"
+    },
+    "a strong intuition or instinctive feeling about something, often without tangible evidence or logical reasoning": {
+        "english_idiom": "gut feeling",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "直觉，凭感觉判断事物或情况"
+    },
+    "to face a difficult or unpleasant situation with courage and determination": {
+        "english_idiom": "bite the bullet",
+        "chinese_idiom": "知难而进",
+        "Chinese_Meaning": "勇敢面对困难、压力或痛苦的现实，毫不犹豫地去做某件不情愿的事情"
+    },
+    "To hope that something will happen as planned or to bring good luck, often by touching or knocking on wood to avoid tempting fate.": {
+        "english_idiom": "knock on wood (touch wood)",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "敲木头（拍木头）表示希望所说的不幸不会发生。这被认为是一种迷信，敲击木头可以避免霉运或不幸的发生。"
+    },
+    "a state of low spirits or inactivity; a feeling of sadness or stagnation": {
+        "english_idiom": "doldrums",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "停滞不前，低迷阶段"
+    },
+    "to be very expensive; to cost a lot of money": {
+        "english_idiom": "cost an arm and a leg",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "花费巨大的代价；非常昂贵"
+    },
+    "a situation with no further progress or opportunity for advancement": {
+        "english_idiom": "dead end",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "没有出路或希望的局面"
+    },
+    "to invent or create a new expression or saying, typically used humorously to acknowledge that one is using a common or clichéd phrase": {
+        "english_idiom": "coin a phrase",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "创造出一个新的短语或特定词汇，通常用于形容某种情况或思想"
+    },
+    "feeling sad or burdened with sorrow": {
+        "english_idiom": "heavy heart",
+        "chinese_idiom": "郁郁寡欢",
+        "Chinese_Meaning": "心情沉重，充满悲伤或忧虑"
+    },
+    "clearly stated or documented": {
+        "english_idiom": "in black and white",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "白纸黑字"
+    },
+    "to earn a living, especially to provide for one's family and basic needs": {
+        "english_idiom": "bring home the bacon",
+        "chinese_idiom": "养家活口",
+        "Chinese_Meaning": "做出贡献或获得成功来维持生计"
+    },
+    "To provide information or clarity on a subject; to reveal or explain something": {
+        "english_idiom": "shed light",
+        "chinese_idiom": "以微知著",
+        "Chinese_Meaning": "阐明问题，使人理解更多信息"
+    },
+    "to mention someone who then appears unexpectedly": {
+        "english_idiom": "speak of the devil",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "刚说论及某人，某人就来了"
+    },
+    "a person or thing that has become widely known or recognized": {
+        "english_idiom": "household name",
+        "chinese_idiom": "名满天下",
+        "Chinese_Meaning": "家喻户晓的名字或品牌"
+    },
+    "a cup of coffee": {
+        "english_idiom": "cup of joe",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "一杯咖啡"
+    },
+    "to do something unsuccessfully or without success": {
+        "english_idiom": "in vain",
+        "chinese_idiom": "劳而无功",
+        "Chinese_Meaning": "徒劳无益"
+    },
+    "regardless of what happens; no matter what obstacles or challenges arise": {
+        "english_idiom": "come what may",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "无论发生什么事情"
+    },
+    "laughing uncontrollably": {
+        "english_idiom": "in stitches",
+        "chinese_idiom": "哄堂大笑",
+        "Chinese_Meaning": "捧腹大笑的状态"
+    },
+    "a meal that is exceptionally delicious or exquisite in taste": {
+        "english_idiom": "dish fit for the gods",
+        "chinese_idiom": "珍馐美馔",
+        "Chinese_Meaning": "可以使人舌尖上的美味"
+    },
+    "to make a fresh start or change one's behavior or attitude for the better": {
+        "english_idiom": "turn over a new leaf",
+        "chinese_idiom": "改弦更张",
+        "Chinese_Meaning": "改过自新；重新开始；改变行为方式"
+    },
+    "to be doomed or in a hopeless situation": {
+        "english_idiom": "done for",
+        "chinese_idiom": "日暮途穷",
+        "Chinese_Meaning": "完了，注定倒下或失败"
+    },
+    "the decision is yours; it is up to you to make the choice": {
+        "english_idiom": "your call",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "由你决定"
+    },
+    "the hot, sultry days of summer": {
+        "english_idiom": "dog days",
+        "chinese_idiom": "秋老虎",
+        "Chinese_Meaning": "非常炎热的夏天时期，通常指7月到8月期间的闷热天气。"
+    },
+    "an event or occurrence that is beyond human control, often used to refer to a natural disaster or other catastrophic event": {
+        "english_idiom": "act of God",
+        "chinese_idiom": "灭顶之灾",
+        "Chinese_Meaning": "不可抗力；天灾，不可预测或无法避免的自然事件或力量"
+    },
+    "a state of happiness or contentment based on false or unrealistic beliefs or hopes": {
+        "english_idiom": "fool's paradise",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "愚人的天堂"
+    },
+    "someone who was once popular or successful but is no longer relevant or important": {
+        "english_idiom": "has-been",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "过气的人"
+    },
+    "to rain very heavily": {
+        "english_idiom": "raining cats and dogs",
+        "chinese_idiom": "倾盆大雨",
+        "Chinese_Meaning": "倾盆大雨"
+    },
+    "to become ill with a particular illness or condition": {
+        "english_idiom": "come down with",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "患上（病症）"
+    },
+    "to ask someone to repeat what they said because you didn't understand it or to express surprise or disbelief about what they said": {
+        "english_idiom": "come again",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "重新再说一次，以确认或解释对方刚说的话或行动"
+    },
+    "to anticipate or be excited about something that is going to happen in the future": {
+        "english_idiom": "look forward",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "期待并渴望"
+    },
+    "occasionally or periodically": {
+        "english_idiom": "from time to time",
+        "chinese_idiom": "不时",
+        "Chinese_Meaning": "偶尔，不时地"
+    },
+    "to do something unexpected or impressive, especially in a difficult or challenging situation": {
+        "english_idiom": "pull a rabbit out of the hat",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "突然解决问题或成功做到某事，尤其是在没有预期的情况下"
+    },
+    "no matter what happens or what difficulties are encountered; regardless of the obstacles or challenges that may arise": {
+        "english_idiom": "come hell or high water",
+        "chinese_idiom": "千沟万壑",
+        "Chinese_Meaning": "不管发生什么事，无论遇到什么困难"
+    },
+    "to happen very quickly or suddenly": {
+        "english_idiom": "before one can say Jack Robinson",
+        "chinese_idiom": "迅雷不及掩耳",
+        "Chinese_Meaning": "在即秒之间"
+    },
+    "to return to the starting point or to start over again": {
+        "english_idiom": "back to square one",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "回到原点"
+    },
+    "repeatedly": {
+        "english_idiom": "over and over again",
+        "chinese_idiom": "一而再，再而三",
+        "Chinese_Meaning": "一遍又一遍地"
+    },
+    "constantly changing or uncertain situation": {
+        "english_idiom": "shifting sands",
+        "chinese_idiom": "变化无常",
+        "Chinese_Meaning": "不稳定的环境或情况，经常发生变化"
+    },
+    "being targeted or under close scrutiny": {
+        "english_idiom": "in the cross hairs",
+        "chinese_idiom": "风口浪尖",
+        "Chinese_Meaning": "受到极大关注或威胁"
+    },
+    "the final detail or action that completes or perfects something": {
+        "english_idiom": "finishing touch",
+        "chinese_idiom": "画龙点睛",
+        "Chinese_Meaning": "锦上添花"
+    },
+    "to introduce an alternative or contrasting viewpoint or perspective": {
+        "english_idiom": "on the other hand",
+        "chinese_idiom": "另眼看待",
+        "Chinese_Meaning": "在另一方面，表示对前一个说法进行对比或补充"
+    },
+    "to have no association or involvement with someone or something": {
+        "english_idiom": "have no truck with",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "与...毫不接触或相关"
+    },
+    "voluntarily or without being influenced by others; by one's own decision or choice": {
+        "english_idiom": "own accord",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "出于自愿、自发地做某事"
+    },
+    "to be in a more advantageous or preferable position; to be in a better situation": {
+        "english_idiom": "better off",
+        "chinese_idiom": "略胜一筹",
+        "Chinese_Meaning": "处于更好的情况或境地；比较富有；更满意或幸福"
+    },
+    "absolutely certain; without any doubt": {
+        "english_idiom": "beyond a shadow of doubt",
+        "chinese_idiom": "无庸置疑",
+        "Chinese_Meaning": "毫无疑问；无可置疑地"
+    },
+    "to insult or verbally abuse someone by using offensive or derogatory language": {
+        "english_idiom": "call names",
+        "chinese_idiom": "含血喷人",
+        "Chinese_Meaning": "辱骂或侮辱他人的语言或行为"
+    },
+    "to be profitable or financially successful": {
+        "english_idiom": "in the black",
+        "chinese_idiom": "有利可图",
+        "Chinese_Meaning": "财务状况良好"
+    },
+    "to abruptly leave or abandon someone or something": {
+        "english_idiom": "walk out on",
+        "chinese_idiom": "不辞而别",
+        "Chinese_Meaning": "抛弃某人或放弃某事"
+    },
+    "to overwork or exhaust oneself by doing too much or staying up too late": {
+        "english_idiom": "burn the candle at both the ends",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "过度劳累或过度使用自己的资源，通常指同时从事太多的活动或工作"
+    },
+    "to resonate or make an impact, typically in an emotional or relatable way": {
+        "english_idiom": "strike the chord",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "触动内心或引起共鸣"
+    },
+    "to be noticeable, exceptional, or distinct from others": {
+        "english_idiom": "stand out",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "显眼；脱颖而出"
+    },
+    "an energetic or enthusiastic young person, especially when they bring new ideas or fresh perspective": {
+        "english_idiom": "young blood",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "年轻人，新鲜血液"
+    },
+    "to regain control of oneself, especially in a difficult or stressful situation": {
+        "english_idiom": "pull yourself together",
+        "chinese_idiom": "不能自已",
+        "Chinese_Meaning": "鼓起勇气、恢复镇定、重新集中注意力"
+    },
+    "to reveal or expose one's true identity or intentions": {
+        "english_idiom": "blow cover",
+        "chinese_idiom": "露出马脚",
+        "Chinese_Meaning": "露出真面目、揭穿、暴露或泄露隐藏的秘密或真相"
+    },
+    "fair and equal opportunity for all": {
+        "english_idiom": "level playing field",
+        "chinese_idiom": "公平合理",
+        "Chinese_Meaning": "公平竞争的环境"
+    },
+    "working together; in coordination or harmony": {
+        "english_idiom": "in tandem",
+        "chinese_idiom": "齐心协力",
+        "Chinese_Meaning": "同时进行；配合默契"
+    },
+    "something of great importance or significance": {
+        "english_idiom": "big deal",
+        "chinese_idiom": "非同小可",
+        "Chinese_Meaning": "没什么大不了的事；不值一提"
+    },
+    "to be strongly attracted to or infatuated with someone or something": {
+        "english_idiom": "smitten with",
+        "chinese_idiom": "怦然心动",
+        "Chinese_Meaning": "深深地迷恋或爱上某人或某物"
+    },
+    "the highest social class; the elite; the aristocracy": {
+        "english_idiom": "upper crust",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "社会地位较高的人，上流社会"
+    },
+    "to voice one's thoughts, opinions, or concerns openly and assertively": {
+        "english_idiom": "speak up",
+        "chinese_idiom": "直抒己见",
+        "Chinese_Meaning": "大声说出来，表达自己的观点或意见"
+    },
+    "to refrain from speaking or expressing one's true thoughts or opinions, especially in a difficult or sensitive situation": {
+        "english_idiom": "bite tongue",
+        "chinese_idiom": "不悱不发",
+        "Chinese_Meaning": "忍住、不说出某事或不发表意见"
+    },
+    "intense fear, anxiety, or nervousness": {
+        "english_idiom": "cold sweat",
+        "chinese_idiom": "心惊胆颤",
+        "Chinese_Meaning": "非常紧张、害怕或担心的状态"
+    },
+    "to recover from or move on from a difficult or upsetting situation or emotion": {
+        "english_idiom": "get over it",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "克服、摆脱或接受不愉快的情况、事件或经历，继续向前看"
+    },
+    "an ideal pairing or union": {
+        "english_idiom": "match made in heaven",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "天生一对的结合"
+    },
+    "to abandon or reject someone or something": {
+        "english_idiom": "turn back on",
+        "chinese_idiom": "拒人千里",
+        "Chinese_Meaning": "背弃、对某人不再支持、对某事不再参与"
+    },
+    "to avoid humiliation or embarrassment, especially in front of others": {
+        "english_idiom": "save face",
+        "chinese_idiom": "含垢忍辱",
+        "Chinese_Meaning": "保全面子；维护面子；避免尴尬或丢脸的情况"
+    },
+    "an unbelievable or far-fetched story that is likely to be untrue": {
+        "english_idiom": "cock and bull story",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "胡扯蛋白的故事"
+    },
+    "very early in the morning": {
+        "english_idiom": "crack of dawn",
+        "chinese_idiom": "旭日初升",
+        "Chinese_Meaning": "拂晓时刻"
+    },
+    "to be very cautious or sensitive in dealing with a situation or person": {
+        "english_idiom": "walk on eggshell",
+        "chinese_idiom": "小心翼翼",
+        "Chinese_Meaning": "小心翼翼地行动，因为害怕得罪或触怒别人"
+    },
+    "to suspect that something is not right or seems suspicious": {
+        "english_idiom": "smell something fishy",
+        "chinese_idiom": "满腹狐疑",
+        "Chinese_Meaning": "觉得可疑，觉得有问题"
+    },
+    "to continue working until one's death or retirement": {
+        "english_idiom": "die in harness",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "坚持工作，甚至在死亡时仍在工作"
+    },
+    "someone who is left-handed": {
+        "english_idiom": "southpaw",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "左撇子，通常指左手使用更灵活或更善于某事的人"
+    },
+    "something that is intended to divert attention from the real issue or problem": {
+        "english_idiom": "red herring",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "误导、分散注意力或引入无关信息以使人产生错误推断或判断"
+    },
+    "to the very end or last minute": {
+        "english_idiom": "down to the wire",
+        "chinese_idiom": "归根结底",
+        "Chinese_Meaning": "到最后一刻；不确定的；紧迫的"
+    },
+    "Wish someone good luck, especially before a performance or event.": {
+        "english_idiom": "break a leg",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "祝你好运"
+    },
+    "if something is working fine as it is, there is no need to make any changes or improvements": {
+        "english_idiom": "if it ain't broke, don't fix it",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "不见得需要修复的话，就不要修复它"
+    },
+    "encourage or urge someone to do something; often used to show disbelief or skepticism": {
+        "english_idiom": "come on",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "加油！快点！"
+    },
+    "to visit briefly or make a quick stop at a place": {
+        "english_idiom": "stop by",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "顺便访问；顺便途径"
+    },
+    "a person who is powerful or influential within a particular organization or group": {
+        "english_idiom": "big cheese",
+        "chinese_idiom": "达官贵人",
+        "Chinese_Meaning": "重要人物或有影响力的人"
+    },
+    "to be knowledgeable or informed about something": {
+        "english_idiom": "be up on",
+        "chinese_idiom": "博学多闻",
+        "Chinese_Meaning": "了解某个特定领域或话题的最新信息"
+    },
+    "an impoverished and dilapidated area, typically associated with homelessness and social problems": {
+        "english_idiom": "skid row",
+        "chinese_idiom": "穷山恶水",
+        "Chinese_Meaning": "苦难、贫穷或社会底层的地方或状态"
+    },
+    "an unexpected or disruptive obstacle or problem": {
+        "english_idiom": "spanner in the works",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "干扰或阻碍计划或进程的人或事物"
+    },
+    "being completely or deeply in love": {
+        "english_idiom": "head over heels",
+        "chinese_idiom": "一往情深",
+        "Chinese_Meaning": "非常喜欢或沉迷于某人或某事。情感非常浓烈或深入。"
+    },
+    "to be overlooked or forgotten": {
+        "english_idiom": "fall between the cracks",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "被忽略或被疏漏的情况，通常指某人或某事被系统或组织忽视或漏掉"
+    },
+    "something that is difficult or impossible to understand or comprehend": {
+        "english_idiom": "all Greek to me",
+        "chinese_idiom": "艰深晦涩",
+        "Chinese_Meaning": "对某事一无所知、毫无概念或听不懂"
+    },
+    "get to the point or focus on the essential matter": {
+        "english_idiom": "cut to the chase",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "直奔主题"
+    },
+    "to defeat or overcome someone or something with great force or impact": {
+        "english_idiom": "knock out",
+        "chinese_idiom": "以力服人",
+        "Chinese_Meaning": "使某人或某物筋疲力尽、完全击败或昏迷"
+    },
+    "to decline an invitation or offer, but with the intention of accepting or participating at a later time": {
+        "english_idiom": "take a rain check",
+        "chinese_idiom": "改日再说",
+        "Chinese_Meaning": "推迟或延期某事；请求推迟或延期某事"
+    },
+    "likely to happen or appear soon": {
+        "english_idiom": "on the horizon",
+        "chinese_idiom": "指日可待",
+        "Chinese_Meaning": "即将发生或出现的事情"
+    },
+    "something that is pleasing or gratifying to hear; good news or information that brings joy or relief": {
+        "english_idiom": "music to ears",
+        "chinese_idiom": "沁人心脾",
+        "Chinese_Meaning": "令人愉悦或令人高兴的消息或声音"
+    },
+    "someone or something that is cherished or highly valued": {
+        "english_idiom": "apple of eye",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "心目中最喜爱的人或物"
+    },
+    "to tell a long and exaggerated story": {
+        "english_idiom": "spin a yarn",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "编织一个故事，通常指编造或夸大事实来娱乐或欺骗听众"
+    },
+    "eager to listen or hear something": {
+        "english_idiom": "all ears",
+        "chinese_idiom": "俯首帖耳",
+        "Chinese_Meaning": "全神贯注地倾听"
+    },
+    "to make a premature statement or prediction that turns out to be incorrect or premature": {
+        "english_idiom": "speak too soon",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "过早地发表意见或断定；言之过早"
+    },
+    "to join in a conversation or discussion, often interrupting or adding one's opinion or input": {
+        "english_idiom": "chime in",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "插话、加入或发表意见"
+    },
+    "to persevere, keep going, or stay determined despite difficulties or challenges": {
+        "english_idiom": "hang in there",
+        "chinese_idiom": "坚持不懈",
+        "Chinese_Meaning": "坚持下去"
+    },
+    "something that is unrealistic or unlikely to happen": {
+        "english_idiom": "pie in the sky",
+        "chinese_idiom": "镜花水月",
+        "Chinese_Meaning": "空中烤饼；不切实际的幻想或希望"
+    },
+    "authentic or genuine": {
+        "english_idiom": "bona fide",
+        "chinese_idiom": "真心实意",
+        "Chinese_Meaning": "真实的，真正的，真诚的"
+    },
+    "feeling sick or unwell": {
+        "english_idiom": "under the weather",
+        "chinese_idiom": "昏昏欲睡",
+        "Chinese_Meaning": "感到不舒服或生病的"
+    },
+    "chaotic or unruly": {
+        "english_idiom": "wild and woolly",
+        "chinese_idiom": "兵荒马乱",
+        "Chinese_Meaning": "混乱或不受控制的；粗暴或野蛮的"
+    },
+    "to speak or perform without any preparation or rehearsal": {
+        "english_idiom": "off the cuff",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "即兴而说，没有事先准备或计划的"
+    },
+    "To quit or stop something abruptly, without gradual withdrawal or preparation": {
+        "english_idiom": "cold turkey",
+        "chinese_idiom": "欲罢不能",
+        "Chinese_Meaning": "突然戒掉某种坏习惯或停止某种行为"
+    },
+    "confrontational or boldly aggressive; intentionally provocative or assertive": {
+        "english_idiom": "in your face",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "公然挑衅或咄咄逼人的行为"
+    },
+    "to be experiencing intense pressure, attack, or criticism; to be in a situation of great difficulty or danger": {
+        "english_idiom": "under siege",
+        "chinese_idiom": "捉襟见肘",
+        "Chinese_Meaning": "被围困、包围或攻击"
+    },
+    "to betray or deceive someone, often for personal gain or advantage": {
+        "english_idiom": "sell someone out",
+        "chinese_idiom": "坑绷拐骗",
+        "Chinese_Meaning": "背叛某人,出卖某人"
+    },
+    "to be in a secret partnership or conspiracy with someone": {
+        "english_idiom": "in the cahoots",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "秘密合作或者串通一气以达到共同的目的"
+    },
+    "to produce or provide something, especially an idea or solution": {
+        "english_idiom": "come up with",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "想出（一个主意，计划，解决方案等）"
+    },
+    "a significant and transformative shift; a profound and remarkable change": {
+        "english_idiom": "sea change",
+        "chinese_idiom": "翻天覆地",
+        "Chinese_Meaning": "巨大的改变；翻天覆地的变化"
+    },
+    "to quickly leave a place or situation in order to avoid something unpleasant or dangerous": {
+        "english_idiom": "beat a hasty retreat",
+        "chinese_idiom": "化险为夷",
+        "Chinese_Meaning": "匆忙逃离，急忙撤退"
+    },
+    "the perception that time passes quickly": {
+        "english_idiom": "time flies",
+        "chinese_idiom": "光阴似箭",
+        "Chinese_Meaning": "时间过得很快"
+    },
+    "an exaggerated or improbable story": {
+        "english_idiom": "tall story",
+        "chinese_idiom": "天方夜谭",
+        "Chinese_Meaning": "虚构或夸大其词的故事；荒谬或离奇的故事"
+    },
+    "uncertain or undecided; not settled or resolved": {
+        "english_idiom": "in the air",
+        "chinese_idiom": "莫衷一是",
+        "Chinese_Meaning": "尚未确定或解决的事情"
+    },
+    "referring to the surprising or coincidental encounters with unfamiliar people or experiences in unexpected places, suggesting that the world is interconnected and events are not as random as they may seem": {
+        "english_idiom": "it's a small world",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "世界真小"
+    },
+    "to be suitable or meet the requirements": {
+        "english_idiom": "fill the bill",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "完全符合要求或满足需求"
+    },
+    "an underlying logic or purpose behind seemingly chaotic or irrational behavior": {
+        "english_idiom": "method to madness",
+        "chinese_idiom": "颠三倒四",
+        "Chinese_Meaning": "疯狂中的方法"
+    },
+    "To be interested in or attracted to only one particular person or thing": {
+        "english_idiom": "have eyes only for",
+        "chinese_idiom": "一心一意",
+        "Chinese_Meaning": "只对...有眼"
+    },
+    "to refer to the nobility or aristocracy; someone of high social standing or pedigree": {
+        "english_idiom": "blue blood",
+        "chinese_idiom": "公子王孙",
+        "Chinese_Meaning": "贵族、高贵的血统"
+    },
+    "directly and without hesitation; confronting a situation or problem directly": {
+        "english_idiom": "head-on",
+        "chinese_idiom": "迎头痛击",
+        "Chinese_Meaning": "直接面对问题或挑战；毫不犹豫地与问题或困难对抗"
+    },
+    "fundamental components or basic elements that are necessary for the development or construction of something": {
+        "english_idiom": "building blocks",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "基本的构成要素或原则，用以建立或形成更大、更复杂的事物。"
+    },
+    "to meet or find something or someone by chance; to give a particular impression or make a particular impact on someone": {
+        "english_idiom": "come across",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "偶然碰到或遇到某人或某事"
+    },
+    "to suspect that something is wrong or suspicious": {
+        "english_idiom": "smell a rat",
+        "chinese_idiom": "疑神疑鬼",
+        "Chinese_Meaning": "察觉到可疑的事情或发现不寻常的迹象"
+    },
+    "To make an effort to improve or become more cheerful and enthusiastic": {
+        "english_idiom": "buck up",
+        "chinese_idiom": "发奋图强",
+        "Chinese_Meaning": "鼓励或激励某人，以增强他们的士气或情绪"
+    },
+    "immediately or without delay": {
+        "english_idiom": "right away",
+        "chinese_idiom": "立时三刻",
+        "Chinese_Meaning": "立刻，马上"
+    },
+    "a list of experiences or achievements that a person wants to have or accomplish before they die": {
+        "english_idiom": "bucket list",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "遗愿清单；心愿清单"
+    },
+    "feeling nervous, anxious, or irritable": {
+        "english_idiom": "on edge",
+        "chinese_idiom": "坐立不安",
+        "Chinese_Meaning": "紧张、不安或焦虑的状态；在紧张或紧迫的情况下"
+    },
+    "to express a strong determination to do something, even if it is the final thing one accomplishes or the very last effort one makes": {
+        "english_idiom": "if it's the last thing I do",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "无论如何，即使是最后一件事我也要做到"
+    },
+    "very close or even in a competition or race; with no clear leader": {
+        "english_idiom": "neck and neck",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "不分上下；不相上下"
+    },
+    "unexpectedly meet someone": {
+        "english_idiom": "bump into",
+        "chinese_idiom": "不期而遇",
+        "Chinese_Meaning": "偶遇，碰上"
+    },
+    "food that is prepared and served quickly, usually in a restaurant, but can also refer to processed food that is designed to be cooked and served quickly": {
+        "english_idiom": "fast food",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "快餐"
+    },
+    "on the lookout; being watchful or vigilant": {
+        "english_idiom": "qui vive",
+        "chinese_idiom": "眼观六路",
+        "Chinese_Meaning": "警惕"
+    },
+    "continuing in the same manner; et cetera; and so forth": {
+        "english_idiom": "and so on",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "等等"
+    },
+    "to postpone or reschedule a planned event or activity": {
+        "english_idiom": "rain check",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "下雨时避免做一件事情，暂时搁置"
+    },
+    "to complete or finalize all necessary paperwork or accounting tasks related to a particular project or period of time": {
+        "english_idiom": "close the books",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "整理账目。指结束财务活动，做出总结和结算。"
+    },
+    "fruitless or futile activity; a pointless pursuit": {
+        "english_idiom": "wild goose chase",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "无结果的追逐或探索；徒劳无益的努力或行动"
+    },
+    "Going from poverty or a lowly position to wealth or success.": {
+        "english_idiom": "rags to riches",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "从贫穷到富有"
+    },
+    "still alive and healthy; active and energetic": {
+        "english_idiom": "alive and kicking",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "活得好好的，充满活力"
+    },
+    "information received directly from the original or authoritative source": {
+        "english_idiom": "straight from the horse's mouth",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "直接从权威或可靠的消息来源得到的信息。"
+    },
+    "extremely pleased or delighted": {
+        "english_idiom": "tickled pink",
+        "chinese_idiom": "眉开眼笑",
+        "Chinese_Meaning": "非常高兴或愉快"
+    },
+    "to exhaust or deplete the supply of something": {
+        "english_idiom": "run out",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "耗尽、用完、没有剩余"
+    },
+    "to accurately identify or describe the main point or issue": {
+        "english_idiom": "hit the nail on the head",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "直指要害，说得非常准确"
+    },
+    "completely stuck or without any progress; unable to move forward or make any further advancements": {
+        "english_idiom": "dead in the water",
+        "chinese_idiom": "寸步难行",
+        "Chinese_Meaning": "陷入困境或无法继续进行的状态"
+    },
+    "at the last possible moment; just in time": {
+        "english_idiom": "in the nick of time",
+        "chinese_idiom": "千钧一发",
+        "Chinese_Meaning": "在最后一刻"
+    },
+    "to suddenly laugh uncontrollably": {
+        "english_idiom": "crack up",
+        "chinese_idiom": "哄堂大笑",
+        "Chinese_Meaning": "大笑；精神崩溃；破裂"
+    },
+    "To express anger or frustration, usually by venting one's emotions in a vehement or spiteful manner": {
+        "english_idiom": "vent spleen",
+        "chinese_idiom": "一吐为快",
+        "Chinese_Meaning": "发泄怒气，表达愤怒或不满"
+    },
+    "Be vigilant and maintain a close watch on people who may pose a threat to you, as they may be harder to defeat if you underestimate them.": {
+        "english_idiom": "keep your friends close and your enemies closer",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "与朋友保持亲近，与敌人保持更亲近"
+    },
+    "to be alert, attentive, and quick to respond or react": {
+        "english_idiom": "on the ball",
+        "chinese_idiom": "呼之即来，挥之即去",
+        "Chinese_Meaning": "非常机敏和反应快速"
+    },
+    "in a precise or perfect manner": {
+        "english_idiom": "to a T",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "完全地，恰好，完美地"
+    },
+    "to start a relationship or project in a problematic or unpleasant way": {
+        "english_idiom": "off on the wrong foot",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "以不好的方式开始，交流或行动引起了不愉快的情况"
+    },
+    "someone who may seem quiet or reserved actually has a strong or complex personality or deep thoughts/feelings.": {
+        "english_idiom": "still waters run deep",
+        "chinese_idiom": NaN,
+        "Chinese_Meaning": "平静的水流深邃"
+    }
+}
